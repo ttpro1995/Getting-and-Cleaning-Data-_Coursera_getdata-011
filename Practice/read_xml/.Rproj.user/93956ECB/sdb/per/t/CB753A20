@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1423805548599.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CB753A20",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "datacsv",
+        "contentUrl" : "content?title=datacsv&file=599c0f9f49174ac3864772d0979b335e.htm",
+        "displayedObservations" : 276,
+        "displayedVariables" : 4,
+        "totalObservations" : 276,
+        "variables" : 4
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

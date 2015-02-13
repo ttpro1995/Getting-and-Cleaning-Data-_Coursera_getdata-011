@@ -1,0 +1,17 @@
+{
+    "contents" : "#read XML\ndata<-xmlTreeParse(\"Parks.xml\")\nrootNode<-xmlRoot(data) #root node\none<-rootNode[[1]]         #root node\nfram<- xmlToDataFrame(\"Parks.xml\",c(\"character\",\"character\",\"numeric\",\"character\"))\n\n#still didn't work.\n#it harder than i thought\n#catch it later.\n#bye\n",
+    "created" : 1423805047282.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3836536951",
+    "id" : "3C06B9F8",
+    "lastKnownWriteTime" : 1423806031,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/read_xml/read_xml.R",
+    "project_path" : "read_xml.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

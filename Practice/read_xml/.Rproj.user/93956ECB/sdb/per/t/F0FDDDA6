@@ -1,0 +1,17 @@
+{
+    "contents" : "# install and set up thing \ninstall.packages(\"XML\")\nlibrary(XML)",
+    "created" : 1423804959004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1212384786",
+    "id" : "F0FDDDA6",
+    "lastKnownWriteTime" : 1423805044,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/read_xml/install packages.R",
+    "project_path" : "install packages.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1423805657537.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD29315F",
+    "lastKnownWriteTime" : 31244048835477601,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "dataf",
+        "contentUrl" : "content?title=dataf&file=3b16d50616444193a87215354c30f98d.htm",
+        "displayedObservations" : 1,
+        "displayedVariables" : 100,
+        "totalObservations" : 1,
+        "variables" : 276
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
