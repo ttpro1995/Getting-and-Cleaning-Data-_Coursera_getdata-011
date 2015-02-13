@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1423752663298.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A792B856",
+    "lastKnownWriteTime" : 31244048835477601,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "housing_data",
+        "contentUrl" : "content?title=housing_data&file=0405d0ec86df4805a7fe290c990ceac5.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 100,
+        "totalObservations" : "6496",
+        "variables" : "188"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
