@@ -1,0 +1,17 @@
+{
+    "contents" : "#read\ndata<-read.xlsx2(\"Grocery_Stores.xlsx\",sheetIndex=1,header=TRUE) # read xlsx and save to data\n",
+    "created" : 1423803374707.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3856782254",
+    "id" : "AAE17F6C",
+    "lastKnownWriteTime" : 1423803487,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/Read_excel_file/read xlsx.R",
+    "project_path" : "read xlsx.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

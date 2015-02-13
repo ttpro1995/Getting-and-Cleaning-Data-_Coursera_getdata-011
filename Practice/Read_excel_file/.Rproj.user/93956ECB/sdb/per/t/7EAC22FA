@@ -1,0 +1,16 @@
+{
+    "contents" : "#install packages and load lib\ninstall.packages(\"xlsx\") #install once\ninstall.packages(\"rJava\") #install once\ninstall.packages(\"xlsxjars\") #install once\nlibrary(xlsx) #load lib to read xlsx \n",
+    "created" : 1423803369815.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "894603328",
+    "id" : "7EAC22FA",
+    "lastKnownWriteTime" : 1423803388,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/Read_excel_file/install require packages.R",
+    "project_path" : "install require packages.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
