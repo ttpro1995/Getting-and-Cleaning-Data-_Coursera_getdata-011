@@ -1,0 +1,17 @@
+{
+    "contents" : "#Natural Gas Aquisition Program\nlibrary(xlsx)   #load library\nrow<-c(18:23)   #row 18-23\ncol<-c(7:15)    # column 7-15\n\ngas.data<-read.xlsx(\"getdata-data-DATA.gov_NGAP.xlsx\",sheetIndex=1, header=TRUE) #read it, store to gas.data\ndat<-read.xlsx(\"getdata-data-DATA.gov_NGAP.xlsx\",sheetIndex=1 ,colIndex=col,rowIndex=row,header=TRUE) #read it, store to dat\n\nsum(dat$Zip*dat$Ext,na.rm=T) #execute this code as quiz ask us to do\n#36534720\n\n#Question 3 answer 36534720",
+    "created" : 1423803640581.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "330258017",
+    "id" : "B3877E18",
+    "lastKnownWriteTime" : 1423804002,
+    "path" : "D:/Coursera/Getting and Cleaning Data/quiz1/R_week1_quiz1/Natural Gas Aquisition Program.R",
+    "project_path" : "Natural Gas Aquisition Program.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

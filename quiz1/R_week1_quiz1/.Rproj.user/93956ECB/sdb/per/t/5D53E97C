@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1423803880392.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5D53E97C",
+    "lastKnownWriteTime" : 9007628751470593,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "gas.data",
+        "contentUrl" : "content?title=gas.data&file=d41a8735898f49b4ae5086a091cf8b69.htm",
+        "displayedObservations" : "94",
+        "displayedVariables" : 9,
+        "totalObservations" : "94",
+        "variables" : "26"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
