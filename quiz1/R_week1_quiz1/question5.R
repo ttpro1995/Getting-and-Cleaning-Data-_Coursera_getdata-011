@@ -1,0 +1,1 @@
+DT<-read.csv("getdata-data-ss06pid.csv")

@@ -1,0 +1,17 @@
+{
+    "contents" : "DT<-read.csv(\"getdata-data-ss06pid.csv\")",
+    "created" : 1423807341238.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3067210288",
+    "id" : "AEC260FC",
+    "lastKnownWriteTime" : 1423807464,
+    "path" : "D:/Coursera/Getting and Cleaning Data/quiz1/R_week1_quiz1/question5.R",
+    "project_path" : "question5.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
