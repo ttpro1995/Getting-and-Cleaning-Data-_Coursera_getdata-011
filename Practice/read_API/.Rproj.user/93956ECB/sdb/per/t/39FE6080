@@ -1,0 +1,17 @@
+{
+    "contents" : "#install packages httr\ninstall.packages(\"httr\")",
+    "created" : 1423897730379.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3314586637",
+    "id" : "39FE6080",
+    "lastKnownWriteTime" : 1423897772,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/read_API/install_httr_packages.R",
+    "project_path" : "install_httr_packages.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

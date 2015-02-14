@@ -1,0 +1,1138 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "kbdc-bpw3",
+      "name" : "Religious Buildings",
+      "attribution" : "City of Baltimore",
+      "attributionLink" : "http://www.baltimorecity.gov",
+      "averageRating" : 0,
+      "category" : "Culture & Arts",
+      "createdAt" : 1323890024,
+      "description" : "This dataset represents the location of religious buildings within the City of Baltimore. Personnel in the Mayor's Office track the coming and goings of religious organizations. The listing is currently limited to Christian and Jewish faiths.",
+      "displayType" : "table",
+      "downloadCount" : 539,
+      "indexUpdatedAt" : 1414540303,
+      "licenseId" : "CC_30_BY",
+      "newBackend" : false,
+      "numberOfComments" : 3,
+      "oid" : 7693065,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1396567462,
+      "publicationGroup" : 260368,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1396567458,
+      "rowsUpdatedBy" : "6r9a-dfdj",
+      "tableId" : 1533914,
+      "totalTimesRated" : 0,
+      "viewCount" : 512,
+      "viewLastModified" : 1396567462,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 141276617,
+        "name" : "name",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1786928,
+        "width" : 271,
+        "cachedContents" : {
+          "non_null" : 513,
+          "smallest" : "1st Mt. Carmel",
+          "null" : 0,
+          "largest" : "Zoe Miracle Church Ministeries",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Beth Am Synagogue"
+          }, {
+            "count" : 19,
+            "item" : "Beth Jacob/Anshe Sphard Ohr Knesseth"
+          }, {
+            "count" : 18,
+            "item" : "B'nai Israel Congregation"
+          }, {
+            "count" : 17,
+            "item" : "Bnai Jacob Shaarei Zion Congregation"
+          }, {
+            "count" : 16,
+            "item" : "Bolton St Synagogue"
+          }, {
+            "count" : 15,
+            "item" : "Chabad-Lubavitch"
+          }, {
+            "count" : 14,
+            "item" : "Chevrei Tzedek Congregation"
+          }, {
+            "count" : 13,
+            "item" : "Chofetz Chaim Adas Bnei Israel"
+          }, {
+            "count" : 12,
+            "item" : "Congregation Beit Tikvah"
+          }, {
+            "count" : 11,
+            "item" : "Darchei Zedek Congregation"
+          }, {
+            "count" : 10,
+            "item" : "Kehilath B'nai Torah"
+          }, {
+            "count" : 9,
+            "item" : "Machzikei Torah Congregation"
+          }, {
+            "count" : 8,
+            "item" : "Nachal Chochma"
+          }, {
+            "count" : 7,
+            "item" : "Ner Tamid Greenspring Valley Synagogue"
+          }, {
+            "count" : 6,
+            "item" : "Ohel Yakov"
+          }, {
+            "count" : 5,
+            "item" : "Ohr Hamizrach Sephardic Center"
+          }, {
+            "count" : 4,
+            "item" : "Shaarei Tfiloh Congregation"
+          }, {
+            "count" : 3,
+            "item" : "Shearith Israel Congregation"
+          }, {
+            "count" : 2,
+            "item" : "Temple Oheb Shalom"
+          }, {
+            "count" : 1,
+            "item" : "Tiferes Yisroel"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 141276618,
+        "name" : "type",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1786929,
+        "width" : 83,
+        "cachedContents" : {
+          "non_null" : 512,
+          "smallest" : "Church",
+          "null" : 1,
+          "largest" : "Synagogue",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Church"
+          }, {
+            "count" : 19,
+            "item" : "Synagogue"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 141276619,
+        "name" : "zipCode",
+        "dataTypeName" : "text",
+        "fieldName" : "zipcode",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1786930,
+        "width" : 63,
+        "cachedContents" : {
+          "non_null" : 513,
+          "smallest" : "21201",
+          "null" : 0,
+          "largest" : "21287",
+          "top" : [ {
+            "count" : 20,
+            "item" : "21217"
+          }, {
+            "count" : 19,
+            "item" : "21231"
+          }, {
+            "count" : 18,
+            "item" : "21215"
+          }, {
+            "count" : 17,
+            "item" : "21216"
+          }, {
+            "count" : 16,
+            "item" : "21223"
+          }, {
+            "count" : 15,
+            "item" : "21212"
+          }, {
+            "count" : 14,
+            "item" : "21213"
+          }, {
+            "count" : 13,
+            "item" : "21207"
+          }, {
+            "count" : 12,
+            "item" : "21230"
+          }, {
+            "count" : 11,
+            "item" : "21229"
+          }, {
+            "count" : 10,
+            "item" : "21224"
+          }, {
+            "count" : 9,
+            "item" : "21206"
+          }, {
+            "count" : 8,
+            "item" : "21218"
+          }, {
+            "count" : 7,
+            "item" : "21205"
+          }, {
+            "count" : 6,
+            "item" : "21202"
+          }, {
+            "count" : 5,
+            "item" : "21225"
+          }, {
+            "count" : 4,
+            "item" : "21210"
+          }, {
+            "count" : 3,
+            "item" : "21214"
+          }, {
+            "count" : 2,
+            "item" : "21201"
+          }, {
+            "count" : 1,
+            "item" : "21239"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 141276620,
+        "name" : "neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "neighborhood",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1786931,
+        "width" : 193,
+        "cachedContents" : {
+          "non_null" : 513,
+          "smallest" : "Allendale",
+          "null" : 0,
+          "largest" : "Yale Heights",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Central Park Heights"
+          }, {
+            "count" : 19,
+            "item" : "Sandtown-Winchester"
+          }, {
+            "count" : 18,
+            "item" : "Franklin Square"
+          }, {
+            "count" : 17,
+            "item" : "Broadway East"
+          }, {
+            "count" : 16,
+            "item" : "Oliver"
+          }, {
+            "count" : 15,
+            "item" : "Walbrook"
+          }, {
+            "count" : 14,
+            "item" : "Upton"
+          }, {
+            "count" : 13,
+            "item" : "Harlem Park"
+          }, {
+            "count" : 12,
+            "item" : "Poppleton"
+          }, {
+            "count" : 11,
+            "item" : "Mondawmin"
+          }, {
+            "count" : 10,
+            "item" : "Mount Winans"
+          }, {
+            "count" : 9,
+            "item" : "Remington"
+          }, {
+            "count" : 8,
+            "item" : "Butcher's Hill"
+          }, {
+            "count" : 7,
+            "item" : "Bolton Hill"
+          }, {
+            "count" : 6,
+            "item" : "Oldtown"
+          }, {
+            "count" : 5,
+            "item" : "Cheswolde"
+          }, {
+            "count" : 4,
+            "item" : "Glen"
+          }, {
+            "count" : 3,
+            "item" : "Cross Country"
+          }, {
+            "count" : 2,
+            "item" : "Reservoir Hill"
+          }, {
+            "count" : 1,
+            "item" : "Jonestown"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 141276621,
+        "name" : "councilDistrict",
+        "dataTypeName" : "number",
+        "fieldName" : "councildistrict",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1786932,
+        "width" : 99,
+        "cachedContents" : {
+          "non_null" : 513,
+          "smallest" : "1",
+          "sum" : "4354",
+          "null" : 0,
+          "average" : "8.487329434697856",
+          "largest" : "14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "6"
+          }, {
+            "count" : 17,
+            "item" : "5"
+          }, {
+            "count" : 16,
+            "item" : "9"
+          }, {
+            "count" : 15,
+            "item" : "4"
+          }, {
+            "count" : 14,
+            "item" : "13"
+          }, {
+            "count" : 13,
+            "item" : "10"
+          }, {
+            "count" : 12,
+            "item" : "11"
+          }, {
+            "count" : 11,
+            "item" : "8"
+          }, {
+            "count" : 10,
+            "item" : "12"
+          }, {
+            "count" : 9,
+            "item" : "2"
+          }, {
+            "count" : 8,
+            "item" : "14"
+          }, {
+            "count" : 7,
+            "item" : "3"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 141276622,
+        "name" : "policeDistrict",
+        "dataTypeName" : "text",
+        "fieldName" : "policedistrict",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1786933,
+        "width" : 145,
+        "cachedContents" : {
+          "non_null" : 513,
+          "smallest" : "CENTRAL",
+          "null" : 0,
+          "largest" : "WESTERN",
+          "top" : [ {
+            "count" : 20,
+            "item" : "WESTERN"
+          }, {
+            "count" : 19,
+            "item" : "SOUTHEASTERN"
+          }, {
+            "count" : 18,
+            "item" : "NORTHWESTERN"
+          }, {
+            "count" : 17,
+            "item" : "NORTHERN"
+          }, {
+            "count" : 16,
+            "item" : "EASTERN"
+          }, {
+            "count" : 15,
+            "item" : "SOUTHERN"
+          }, {
+            "count" : 14,
+            "item" : "CENTRAL"
+          }, {
+            "count" : 13,
+            "item" : "SOUTHWESTERN"
+          }, {
+            "count" : 12,
+            "item" : "NORTHEASTERN"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 141276623,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 7,
+        "renderTypeName" : "location",
+        "tableColumnId" : 1786934,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 513,
+          "smallest" : {
+            "human_address" : "{\"address\":\"1 HAMILTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "human_address" : "{\"address\":\"EUTAW PL\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "human_address" : "{\"address\":\"2501 Eutaw Pl\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "human_address" : "{\"address\":\"5713 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "human_address" : "{\"address\":\"27 Lloyd St\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "human_address" : "{\"address\":\"6602 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "human_address" : "{\"address\":\"212 Coldspring Ln\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "human_address" : "{\"address\":\"3402 Clarks Ln\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "human_address" : "{\"address\":\"3101 Fallstaff Rd\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "human_address" : "{\"address\":\"5915 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "human_address" : "{\"address\":\"5802 Roland Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "human_address" : "{\"address\":\"7307 Seven Mile Ln\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "human_address" : "{\"address\":\"6301 Green Meadow Parkway\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "human_address" : "{\"address\":\"6216 Biltmore Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "human_address" : "{\"address\":\"6410 Cross Country Blvd\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "human_address" : "{\"address\":\"6214 Pimlico Rd\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "human_address" : "{\"address\":\"3200 Glen Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "human_address" : "{\"address\":\"6813 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "human_address" : "{\"address\":\"2001 Liberty Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "human_address" : "{\"address\":\"5835 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "human_address" : "{\"address\":\"7310 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "human_address" : "{\"address\":\"6201 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons Attribution 3.0 Unported",
+        "logoUrl" : "images/licenses/cc30by.png",
+        "termsLink" : "http://creativecommons.org/licenses/by/3.0/legalcode"
+      },
+      "owner" : {
+        "id" : "n22b-663u",
+        "displayName" : "hchudson_bmore",
+        "privilegesDisabled" : false,
+        "roleName" : "administrator",
+        "screenName" : "hchudson_bmore",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "n22b-663u",
+        "displayName" : "hchudson_bmore",
+        "privilegesDisabled" : false,
+        "roleName" : "administrator",
+        "screenName" : "hchudson_bmore",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "religious", "religion", "church", "synagogue" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "D09E4750-76FB-46A7-80E2-9621330C63DF", 1, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christian Memorial Church", "Church", "21217", "Easterwood", "7", "WESTERN", [ "{\"address\":\"2001 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 2, "7A9FB6FC-ACA4-4CBF-BEAA-03C486D0A7D2", 2, 1323890035, "393202", 1323890035, "393202", "{\n}", "Har Sinai Church Of Christ", "Church", "21231", "Fells Point", "1", "SOUTHEASTERN", [ "{\"address\":\"300 BROADWAY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 3, "44E25EF5-E2B6-4F0C-BA0C-759299A76E6F", 3, 1323890035, "393202", 1323890035, "393202", "{\n}", "Lords Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"5010 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 4, "C8098882-0F2F-4403-A682-AB6F33F065B7", 4, 1323890035, "393202", 1323890035, "393202", "{\n}", "Hallelujah United Church Of God", "Church", "21215", "Arlington", "5", "NORTHWESTERN", [ "{\"address\":\"3606 ROGERS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 5, "E23E1B06-E34C-4188-9D4C-5711D0023F27", 5, 1323890035, "393202", 1323890035, "393202", "{\n}", "Fourth Mount Zion Baptist Church", "Church", "21216", "Hanlon-Longwood", "7", "NORTHWESTERN", [ "{\"address\":\"2504 HILTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 6, "B2089BA9-7ECB-40FF-B2CA-BD010E3C9964", 6, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of The Living God", "Church", "21223", "Penrose/Fayette Street Outreach", "9", "WESTERN", [ "{\"address\":\"2402 FAYETTE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 7, "05E9157C-6517-4901-BA3A-4C4B9D98B0B6", 7, 1323890035, "393202", 1323890035, "393202", "{\n}", "Way Of The Cross Church", "Church", "21212", "Wilson Park", "4", "NORTHERN", [ "{\"address\":\"4303 OLD YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 8, "335209D3-2349-49E1-9048-BB34827DAB0F", 8, 1323890035, "393202", 1323890035, "393202", "{\n}", "Rising Zion Baptist Church Inc", "Church", "21213", "Broadway East", "13", "EASTERN", [ "{\"address\":\"2300 LLEWELYN AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 9, "717C66BA-D2F2-4F7B-845F-E9891D890088", 9, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Baptist Church Of Baltimore", "Church", "21207", "Dorchester", "5", "NORTHWESTERN", [ "{\"address\":\"4200 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 10, "852E6FAC-38AC-43F6-8BB3-7A6D57E83234", 10, 1323890035, "393202", 1323890035, "393202", "{\n}", "Pleasant Rock Baptist Church", "Church", "21230", "Washington Village", "10", "SOUTHERN", [ "{\"address\":\"1099 SCOTT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 11, "A934F483-79CF-4C63-A652-3AB6D6EB90C4", 11, 1323890035, "393202", 1323890035, "393202", "{\n}", "God First Ministries, Inc.", "Church", "21217", "Madison Park", "11", "CENTRAL", [ "{\"address\":\"1701 MADISON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 12, "E80751B8-DABA-4402-9139-F84A6804141B", 12, 1323890035, "393202", 1323890035, "393202", "{\n}", "Sharp Street Memorial U.M.C.", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1206 ETTING ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 13, "AF6EC21A-2C8B-4E7B-A907-2EAB03403F62", 13, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Christian Fellowship Baptist Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"4857 REISTERSTOWN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 14, "920FD764-CC10-41EE-AB46-749AD81222CF", 14, 1323890035, "393202", 1323890035, "393202", "{\n}", "Guiding Light Baptist Church", "Church", "21215", "Greenspring", "6", "NORTHERN", [ "{\"address\":\"2621 OSWEGO AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 15, "88F92768-F0B3-47BC-9A6F-941FDF6B422B", 15, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Bartholomew's Church", "Church", "21229", "Ten Hills", "8", "SOUTHWESTERN", [ "{\"address\":\"4711 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 16, "084302A3-2487-4EC8-88B0-55B040A0EA00", 16, 1323890035, "393202", 1323890035, "393202", "{\n}", "Pleasant Hope Baptist Church", "Church", "21212", "Rosebank", "4", "NORTHERN", [ "{\"address\":\"430 BELVEDERE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 17, "9DD9981C-749F-4331-B933-05C39F1A49E9", 17, 1323890035, "393202", 1323890035, "393202", "{\n}", "Pleasant Hope Baptist Church", "Church", "21212", "Rosebank", "4", "NORTHERN", [ "{\"address\":\"430 BELVEDERE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 18, "25E9A7E1-8EB0-4328-99BD-D0F96CED10D0", 18, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Tabor Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1719 OLIVER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 19, "2B781D6C-F31B-495E-B550-472BF427CA7C", 19, 1323890035, "393202", 1323890035, "393202", "{\n}", "Solid Rock Church Of Christ", "Church", "21229", "Rognel Heights", "8", "SOUTHWESTERN", [ "{\"address\":\"4315 SIDEHILL RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 20, "B89B9E18-57ED-4275-BF28-B441C360DDD7", 20, 1323890035, "393202", 1323890035, "393202", "{\n}", "Canton United Methodist Church", "Church", "21224", "Canton", "1", "SOUTHEASTERN", [ "{\"address\":\"1000 ELLWOOD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 21, "02E80D5E-5E65-4992-9515-FBC63DF599D4", 21, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bethany Baptist Church", "Church", "21230", "Mount Winans", "10", "SOUTHERN", [ "{\"address\":\"2616 RIDGELY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 22, "157F559C-78C0-4355-83CA-A06ECDA3DB67", 22, 1323890035, "393202", 1323890035, "393202", "{\n}", "True Vine Christian Center", "Church", "21223", "Carrollton Ridge", "9", "SOUTHERN", [ "{\"address\":\"2001 FREDERICK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 23, "90B20DDD-9295-4A71-9BD1-3232A93C81C8", 23, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Cross Episcopal Church", "Church", "21223", "Millhill", "9", "SOUTHWESTERN", [ "{\"address\":\"433 MILLINGTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 24, "2E9E6FDC-93DB-4602-BCD7-322E320A0CBB", 24, 1323890035, "393202", 1323890035, "393202", "{\n}", "Epiphany Lutheran Church", "Church", "21206", "Cedmont", "2", "NORTHEASTERN", [ "{\"address\":\"4301 RASPE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 25, "737A9E87-008F-459D-9DB3-A4409075A7CE", 25, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint James Episcopal Church", "Church", "21217", "Sandtown-Winchester", "11", "WESTERN", [ "{\"address\":\"1020 LAFAYETTE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 26, "DB75DB11-3A7F-480C-9544-628006B2A60D", 26, 1323890035, "393202", 1323890035, "393202", "{\n}", "Wilkens Avenue Mennonite Church", "Church", "21223", "New Southwest/Mount Clare", "9", "SOUTHERN", [ "{\"address\":\"1616 WILKENS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 27, "4D2B103F-D5A0-453C-BEFD-A8AB371BF035", 27, 1323890035, "393202", 1323890035, "393202", "{\n}", "Life Celebration Worship Center", "Church", "21223", "Carrollton Ridge", "9", "SOUTHWESTERN", [ "{\"address\":\"630 PULASKI ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 28, "50797AE6-7621-4833-9D03-939B867EBFCE", 28, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater New Saint John Baptist Church", "Church", "21213", "Middle East", "12", "EASTERN", [ "{\"address\":\"1108 WOLFE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 29, "C6435037-95D1-4E87-B857-97BDEADB89A2", 29, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint John Baptist Church", "Church", "21231", "Middle East", "13", "EASTERN", [ "{\"address\":\"2223 JEFFERSON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 30, "4B327A89-C2F9-4A28-921E-6C21EF5FF44C", 30, 1323890035, "393202", 1323890035, "393202", "{\n}", "Perkins Square Baptist Church", "Church", "21223", "Rosemont Homeowners/Tenants", "9", "WESTERN", [ "{\"address\":\"2500 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 31, "7D179B52-252D-4569-961C-EA9F2C91E518", 31, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Zion Baptist Church Inc", "Church", "21216", "Mosher", "9", "WESTERN", [ "{\"address\":\"819 DUKELAND ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 32, "DB1DF923-D83A-4441-BAFF-171E41B3F4F2", 32, 1323890035, "393202", 1323890035, "393202", "{\n}", "Fulton Baptist Church", "Church", "21217", "Penn North", "7", "WESTERN", [ "{\"address\":\"1630 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 33, "EF221874-0104-45A3-B023-B543E4482D75", 33, 1323890035, "393202", 1323890035, "393202", "{\n}", "University Baptist Church", "Church", "21218", "Charles Village", "14", "NORTHERN", [ "{\"address\":\"3501 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 34, "4DC1CB34-0806-4F30-9FBB-BB930DC33ACB", 34, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bilingual Christian Church", "Church", "21205", "Pulaski Industrial Area", "2", "SOUTHEASTERN", [ "{\"address\":\"6000 ERDMAN AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 35, "2A8649DB-6E1B-4379-B370-C7657CBA7D4E", 35, 1323890035, "393202", 1323890035, "393202", "{\n}", "The Power House", "Church", "21223", "Washington Village", "9", "SOUTHERN", [ "{\"address\":\"1352 JAMES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 36, "640692E5-B5AB-4036-836C-964BD72CCDF3", 36, 1323890035, "393202", 1323890035, "393202", "{\n}", "Wilson Park Holy Church Of Power", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"2654 POLK ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 37, "683BE860-7942-485D-BB32-82697A0939F3", 37, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Andrews Orthodox Church", "Church", "21231", "Butcher's Hill", "1", "SOUTHEASTERN", [ "{\"address\":\"2028 LOMBARD ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 38, "DBBCB5E7-FD55-4F2C-92B6-915EB3095EA1", 38, 1323890035, "393202", 1323890035, "393202", "{\n}", "Brown Memorial Park Avenue Methodist Chur", "Church", "21217", "Bolton Hill", "11", "CENTRAL", [ "{\"address\":\"1316 PARK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 39, "D37D6C51-FB0E-4DE2-97E9-2A5A84F3CA0B", 39, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Second Missionary Church", "Church", "21202", "Greenmount West", "12", "EASTERN", [ "{\"address\":\"214 LANVALE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 40, "B7B5FB51-2CE8-45BD-8BF8-213101380696", 40, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint John Freewill Baptist Church", "Church", "21223", "Midtown-Edmondson", "9", "WESTERN", [ "{\"address\":\"2039 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 41, "F5ACDAF0-E134-4DB6-892D-2ECAAE9190BF", 41, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Tabernacle Baptist Church", "Church", "21223", "Carrollton Ridge", "9", "SOUTHWESTERN", [ "{\"address\":\"2101 FREDERICK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 42, "36AD4CB5-EF16-49D1-9CA5-5A3DD92A27B9", 42, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Christian Memorial Church", "Church", "21229", "Saint Josephs", "8", "SOUTHWESTERN", [ "{\"address\":\"3525 CATON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 43, "24288AE2-BCFF-4C5D-851F-E14F606DA7B6", 43, 1323890035, "393202", 1323890035, "393202", "{\n}", "7th Baptist Church", "Church", "21202", "Charles North", "12", "CENTRAL", [ "{\"address\":\"30 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 44, "F99CC3F9-547B-4DE0-BA93-C0AEBE92742B", 44, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Mark's Lutheran Church", "Church", "21202", "Charles North", "12", "CENTRAL", [ "{\"address\":\"1900 SAINT PAUL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 45, "BD435E9A-3F7B-44B6-A433-92074EAA2840", 45, 1323890035, "393202", 1323890035, "393202", "{\n}", "Wsb Senior Memorial Church", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"3000 HILLEN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 46, "3664A176-386D-4B37-A5F3-0A9E0C0BDEE8", 46, 1323890035, "393202", 1323890035, "393202", "{\n}", "Word Alive Worship Center", "Church", "21223", "Midtown-Edmondson", "9", "WESTERN", [ "{\"address\":\"1915 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 47, "B948F519-C0AD-4CF2-9392-878BB6EA0EA7", 47, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Zion United Church Of God", "Church", "21216", "Coppin Heights/Ash-Co-East", "7", "WESTERN", [ "{\"address\":\"2217 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 48, "D517D18A-5BCE-4E32-AA78-E333EA0E80D0", 48, 1323890035, "393202", 1323890035, "393202", "{\n}", "Patterson Asbury A.M.E.", "Church", "21217", "Druid Heights", "11", "CENTRAL", [ "{\"address\":\"2211 DIVISION ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 49, "F4A834B0-95C3-4997-BB46-5DE7834A6D2D", 49, 1323890035, "393202", 1323890035, "393202", "{\n}", "Shiloh Church Of God 7Th Day", "Church", "21213", "Berea", "13", "EASTERN", [ "{\"address\":\"1910 EDISON HWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 50, "F7D3032F-4E26-4C34-838C-29A29D1EED50", 50, 1323890035, "393202", 1323890035, "393202", "{\n}", "Emmanuel Christian Community Church", "Church", "21217", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"1210 LANVALE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 51, "7534C932-5034-4E7C-82D7-E962FFC36A7D", 51, 1323890035, "393202", 1323890035, "393202", "{\n}", "Seventh Baptist Church Family", "Church", "21218", "Barclay", "12", "CENTRAL", [ "{\"address\":\"1921 SAINT PAUL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 52, "2F4E0258-184F-4C37-BE38-BB6A45F74465", 52, 1323890035, "393202", 1323890035, "393202", "{\n}", "Lutheran Church Of The Redeemer", "Church", "21229", "Irvington", "8", "SOUTHWESTERN", [ "{\"address\":\"4211 VERMONT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 53, "14B84371-053B-4890-8904-7F734CF63CAD", 53, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Carmel Baptist Church", "Church", "21218", "Charles Village", "12", "NORTHERN", [ "{\"address\":\"212 25TH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 54, "D374BA26-E771-4BA4-A2BC-C2A1AA899FD6", 54, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Creation Christian Church", "Church", "21206", "Frankford", "2", "NORTHEASTERN", [ "{\"address\":\"5401 FRANKFORD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 55, "3ECCFB47-F905-497D-9683-9C24231E88D3", 55, 1323890035, "393202", 1323890035, "393202", "{\n}", "Gosd's Unlimited Power", "Church", "21223", "Midtown-Edmondson", "9", "WESTERN", [ "{\"address\":\"2111 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 56, "55F4571E-093E-413D-8E34-0EB7626E8314", 56, 1323890035, "393202", 1323890035, "393202", "{\n}", "Simmons Memorial Baptist Church", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"601 CUMBERLAND ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 57, "DC32E1F3-01A9-4F2C-92DE-2EE4B5302633", 57, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Macedonia Church Of God", "Church", "21217", "Druid Heights", "11", "CENTRAL", [ "{\"address\":\"429 ROBERT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 58, "F1DE1AF9-241B-4C32-890E-3391CE9CF4E8", 58, 1323890035, "393202", 1323890035, "393202", "{\n}", "Townsend Avenue Baptist Church", "Church", "21225", "Brooklyn", "10", "SOUTHERN", [ "{\"address\":\"4200 TOWNSEND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 59, "411C4E0D-E8D7-43CC-A7F9-F37BFD018D7D", 59, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Grace World Outreach", "Church", "21206", "Pulaski Industrial Area", "2", "NORTHEASTERN", [ "{\"address\":\"6025 MORAVIA PARK DR\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 60, "5295FCAB-96B2-4A27-80CE-B96B6266660D", 60, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christian Temple Baptist Church", "Church", "21217", "Easterwood", "7", "WESTERN", [ "{\"address\":\"2109 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 61, "075FFB12-652A-4581-BD7B-771F6A1805F9", 61, 1323890035, "393202", 1323890035, "393202", "{\n}", "Andrew Chapel Methodist Church", "Church", "21206", "Waltherson", "2", "NORTHEASTERN", [ "{\"address\":\"4100 FRANKFORD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 62, "EB8E74D5-F3EF-48B6-95F9-706C9BA6A837", 62, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of Christ", "Church", "21210", "Roland Park", "14", "NORTHERN", [ "{\"address\":\"530 UNIVERSITY PKWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 63, "B3060EEA-3308-4CF9-A704-B80D7989FFC4", 63, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Hebron Baptist Church", "Church", "21216", "Coppin Heights/Ash-Co-East", "7", "WESTERN", [ "{\"address\":\"2651 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 64, "0FC1F6CA-B03F-4B50-8B19-132B4BE59CEB", 64, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Olive Christian Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"823 LANVALE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 65, "E8DBBFA0-10B2-4C9C-8DA2-2EE31E121316", 65, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ & Country Church", "Church", "21214", "Christopher", "3", "NORTHEASTERN", [ "{\"address\":\"6020 OLD HARFORD RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 66, "D24181A0-1506-4966-822E-3C354FA34A5D", 66, 1323890035, "393202", 1323890035, "393202", "{\n}", "Sharon Baptist Church", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"1373 STRICKER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 67, "59B10A9C-133E-4071-ABCF-D2F664704CCC", 67, 1323890035, "393202", 1323890035, "393202", "{\n}", "Good Shepherd Baptist Church", "Church", "21215", "Park Circle", "6", "NORTHWESTERN", [ "{\"address\":\"3459 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 68, "466D61DB-B499-4FF6-B8B5-55BED9204820", 68, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ Church", "Church", "21202", "Mid-Town Belvedere", "12", "CENTRAL", [ "{\"address\":\"1110 SAINT PAUL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 69, "E8544581-20DD-4FAA-978C-9068D5EF7DC1", 69, 1323890035, "393202", 1323890035, "393202", "{\n}", "Shaarei Tfiloh Congregation", "Church", "21217", "Parkview/Woodbrook", "7", "WESTERN", [ "{\"address\":\"2001 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 70, "292831D2-ADA1-486F-BDCF-476B01541569", 70, 1323890035, "393202", 1323890035, "393202", "{\n}", "Wayman's Ame Church", "Church", "21230", "Washington Village", "9", "SOUTHERN", [ "{\"address\":\"1305 WASHINGTON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 71, "57E80CFF-FC8C-4993-9572-D13CF401EF47", 71, 1323890035, "393202", 1323890035, "393202", "{\n}", "Revival Mission Church", "Church", "21223", "Franklin Square", "9", "SOUTHERN", [ "{\"address\":\"24 FULTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 72, "0B4CB274-E9A7-4ED9-87CC-A4F947943002", 72, 1323890035, "393202", 1323890035, "393202", "{\n}", "Rehobeth Church Of God", "Church", "21216", "Franklintown Road", "9", "SOUTHWESTERN", [ "{\"address\":\"700 POPLAR GROVE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 73, "85AB8254-1850-4EAA-A308-4F35F5E3FB29", 73, 1323890035, "393202", 1323890035, "393202", "{\n}", "Sexton United Methodist Church", "Church", "21230", "Morrell Park", "10", "SOUTHWESTERN", [ "{\"address\":\"1721 SEXTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 74, "D8C08FED-D3B1-4C0E-8E1E-EAAA624F7377", 74, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Bethel Church Of God", "Church", "21215", "Cylburn", "6", "NORTHERN", [ "{\"address\":\"4651 PIMLICO RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 75, "9182022A-D41D-4415-9DF2-5CD5C406AB69", 75, 1323890035, "393202", 1323890035, "393202", "{\n}", "Beth-El Temple Church Of Christ", "Church", "21215", "Woodmere", "5", "NORTHWESTERN", [ "{\"address\":\"3910 ROGERS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 76, "4A419E00-3332-463A-832E-86D3508E80C4", 76, 1323890035, "393202", 1323890035, "393202", "{\n}", "Grace United Methodist Church", "Church", "21210", "Homeland", "4", "NORTHERN", [ "{\"address\":\"5407 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 77, "5B97ADE7-B46B-427A-B2CE-079A6FD15D27", 77, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bible Way Baptist Church", "Church", "21213", "Biddle Street", "13", "EASTERN", [ "{\"address\":\"2423 BIDDLE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 78, "E3C00333-BE84-4008-BEC9-9D2BA84B3EAD", 78, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Gethsemane Baptist Church", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"1613 GORSUCH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 79, "DC69044C-4750-48DD-909C-3941D4F9AD9F", 79, 1323890035, "393202", 1323890035, "393202", "{\n}", "Beautiful Gate Baptist Church", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"255 MONROE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 80, "5DF0F629-399F-4C64-99FE-0625FDA36F46", 80, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Elizabeth Baptist Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"4901 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 81, "478D59A1-FC54-4023-8C06-C97F0ABAA4CA", 81, 1323890035, "393202", 1323890035, "393202", "{\n}", "Highland Assembly Of God", "Church", "21224", "Brewers Hill", "1", "SOUTHEASTERN", [ "{\"address\":\"3930 FLEET ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 82, "12CA1F45-B151-4CA0-9930-119A6D471BF3", 82, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of God", "Church", "21229", "Rognel Heights", "8", "SOUTHWESTERN", [ "{\"address\":\"4310 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 83, "6D738F3C-A241-4F7A-BC98-01EEBDAC6F27", 83, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of The Messiah", "Church", "21214", "Glenham-Belford", "3", "NORTHEASTERN", [ "{\"address\":\"5801 HARFORD RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 84, "78D7B051-FB70-4D0C-8E6C-2A1D0B400359", 84, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Harvest Baptist Church", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"1617 SARATOGA ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 85, "51FAF5F8-9B59-47A8-9A61-CD8B47AC5839", 85, 1323890035, "393202", 1323890035, "393202", "{\n}", "Waters A.M.E. Church", "Church", "21202", "Oldtown", "12", "EASTERN", [ "{\"address\":\"471 AISQUITH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 86, "B36A98C7-C92F-4D97-BA4E-06E2663D097F", 86, 1323890035, "393202", 1323890035, "393202", "{\n}", "Wildwood Parkway United Methodist Church", "Church", "21229", "Edmondson Village", "8", "SOUTHWESTERN", [ "{\"address\":\"700 WILDWOOD PKWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 87, "39313CBD-5268-456F-8751-058A51C747AA", 87, 1323890035, "393202", 1323890035, "393202", "{\n}", "New All Saints Catholic Church", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"4408 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 88, "B8F1D5C5-1308-4BD2-8D6E-5AFE8D6D31F2", 88, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Comforter Lutheran Church", "Church", "21212", "Mid-Govans", "4", "NORTHERN", [ "{\"address\":\"5513 YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 89, "3DD0C3B7-FCB3-49E7-AB0F-D0CC8D5CD9FF", 89, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Nation Tabernacle", "Church", "21213", "Belair-Edison", "13", "NORTHEASTERN", [ "{\"address\":\"3531 BELAIR RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 90, "E7783FF1-3710-4836-BF7F-8142E5802303", 90, 1323890035, "393202", 1323890035, "393202", "{\n}", "Good Tidings Baptist Church", "Church", "21213", "Orangeville Industrial Area", "13", "EASTERN", [ "{\"address\":\"1401 EDISON HWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 91, "A5F514EB-4C00-4800-85F2-EB03994B2DA0", 91, 1323890035, "393202", 1323890035, "393202", "{\n}", "Cathedral Of The Annunciation", "Church", "21201", "Mid-Town Belvedere", "11", "CENTRAL", [ "{\"address\":\"24 PRESTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 92, "FDD6D447-7579-4D35-BA7E-5DD9954DD50A", 92, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greek Orthodox Cathedral Of The Annunciat", "Church", "21201", "Mid-Town Belvedere", "11", "CENTRAL", [ "{\"address\":\"24 PRESTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 93, "F5C1869F-0B38-465E-85AA-07BDE7DE92DF", 93, 1323890035, "393202", 1323890035, "393202", "{\n}", "Dalton Baptist Church", "Church", "21215", "West Arlington", "6", "NORTHWESTERN", [ "{\"address\":\"4302 GARRISON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 94, "97024FC1-C162-4161-BC33-43CB3DBDEA8F", 94, 1323890035, "393202", 1323890035, "393202", "{\n}", "Central Baptist Church", "Church", "21231", "Butcher's Hill", "1", "SOUTHEASTERN", [ "{\"address\":\"2035 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 95, "F700935B-0A3B-46DF-9A98-883925F1B97E", 95, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bethlehem Baptist Church", "Church", "21239", "New Northwood", "4", "NORTHEASTERN", [ "{\"address\":\"1314 WINSTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 96, "7BA20B56-9F30-4D6B-8501-FC25E053FAFF", 96, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of The Redeemer Parish", "Church", "21210", "Homeland", "4", "NORTHERN", [ "{\"address\":\"5603 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 97, "A2B2A554-5D67-48F2-B342-10AF6D9D750C", 97, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Lebanon Baptist Church", "Church", "21205", "McElderry Park", "13", "SOUTHEASTERN", [ "{\"address\":\"501 MILTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 98, "20314F85-683A-44F2-BD12-5FCEA46662E3", 98, 1323890035, "393202", 1323890035, "393202", "{\n}", "Whitestone Baptist Church", "Church", "21216", "Rosemont", "9", "SOUTHWESTERN", [ "{\"address\":\"3001 BAKER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 99, "6D4DBEF0-2D0F-4A60-A18E-8FBDC7490DDB", 99, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Gregory The Great Church", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"1542 GILMOR ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 100, "16B289A2-5D60-4796-8455-422E05C45BF1", 100, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Paul Community Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1901 FEDERAL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 101, "CDA976F3-8592-4C25-A3A1-565D298E7C3F", 101, 1323890035, "393202", 1323890035, "393202", "{\n}", "Timothy Baptist Church", "Church", "21223", "Poppleton", "11", "WESTERN", [ "{\"address\":\"1214 SARATOGA ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 102, "945AA13F-9A6D-4CFE-A4F3-A3900FF5F645", 102, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Fellowship Bible Church", "Church", "21229", "Allendale", "8", "SOUTHWESTERN", [ "{\"address\":\"346 DENISON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 103, "48B48F93-8D90-4A3C-AB08-2B91F3885650", 103, 1323890035, "393202", 1323890035, "393202", "{\n}", "Sacred Zion Full Gospel Baptist Church", "Church", "21229", "Allendale", "8", "SOUTHWESTERN", [ "{\"address\":\"346 DENISON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 104, "4E1EB884-9036-47B6-83A9-D82F4E20615D", 104, 1323890035, "393202", 1323890035, "393202", "{\n}", "Canaan Baptist Church", "Church", "21201", "Seton Hill", "11", "CENTRAL", [ "{\"address\":\"713 TESSIER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 105, "37F0D65A-52D3-461D-9A92-D244168A9CD0", 105, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mt. Lebanon Baptist Church", "Church", "21215", "Liberty Square", "7", "NORTHWESTERN", [ "{\"address\":\"2812 REISTERSTOWN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 106, "800B6DA6-2983-4009-BB2D-2342C0FA17BD", 106, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Moriah Baptist Church", "Church", "21216", "Mount Holly", "7", "SOUTHWESTERN", [ "{\"address\":\"2201 GARRISON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 107, "4B0103DC-1869-403D-8259-2C0B9EEF215B", 107, 1323890035, "393202", 1323890035, "393202", "{\n}", "Union Temple Baptist Church", "Church", "21217", "Reservoir Hill", "11", "CENTRAL", [ "{\"address\":\"1100 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 108, "964B0DC1-D610-4CC5-9A5D-C715B6FEA09B", 108, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bethlehem Church Of God", "Church", "21216", "Forest Park", "6", "NORTHWESTERN", [ "{\"address\":\"3201 GARRISON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 109, "55D9F910-60AA-4399-9195-85B34F308DD7", 109, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of The Holy Nativity", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"4238 PIMLICO RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 110, "7FB0B30A-03D9-4531-A06B-99E3611F3E30", 110, 1323890035, "393202", 1323890035, "393202", "{\n}", "Cornerstone Church Of Christ", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"4239 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 111, "B051AD15-217C-461C-A3E6-8AD1FF4160C9", 111, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Hope Church Of God", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"314 GILMOR ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 112, "7F399E16-6CBB-4413-B589-F5F681D3A87B", 112, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mt. Ararat Baptist Church", "Church", "21216", "Hanlon-Longwood", "7", "NORTHWESTERN", [ "{\"address\":\"3008 GWYNNS FALLS PKWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 113, "B14D708D-660E-432B-99E7-0194D994B3B3", 113, 1323890035, "393202", 1323890035, "393202", "{\n}", "Ray Of Hope Baptist Church", "Church", "21214", "Arcadia", "3", "NORTHEASTERN", [ "{\"address\":\"3000 PARKSIDE DR\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 114, "135923A3-8552-416B-B143-93D2255BAB50", 114, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christian Unity Temple Church", "Church", "21215", "West Arlington", "6", "NORTHWESTERN", [ "{\"address\":\"3900 GROVELAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 115, "D1ABD07E-7479-468D-B0FA-8635BBBE2967", 115, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint William Of York Church", "Church", "21229", "West Hills", "8", "SOUTHWESTERN", [ "{\"address\":\"600 COOKS LN\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 116, "26A1506B-2DCE-4FAE-9A0F-DBF7A652CA4C", 116, 1323890035, "393202", 1323890035, "393202", "{\n}", "Eden Korean United Methodist Church", "Church", "21213", "Mayfield", "3", "NORTHEASTERN", [ "{\"address\":\"2204 MAYFIELD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 117, "FB0CD29C-D56A-4ACD-8170-5539D513BADF", 117, 1323890035, "393202", 1323890035, "393202", "{\n}", "Apostolic Church Of Jesus Christ", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"1804 KAVANAUGH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 118, "D94A06D3-DC3F-4EA9-A711-6CEB7A30ABEA", 118, 1323890035, "393202", 1323890035, "393202", "{\n}", "Hallelujah Baptist Church", "Church", "21202", "Johnston Square", "12", "EASTERN", [ "{\"address\":\"1133 GREENMOUNT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 119, "9B3A727B-C6A8-4A43-85E7-0C9E2853C17C", 119, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Paul's Lutheran Church", "Church", "21226", "Curtis Bay", "10", "SOUTHERN", [ "{\"address\":\"3909 PENNINGTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 120, "F458A3FB-2E48-4048-8E66-52BFA4DBED9B", 120, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Alpha & Omega Dilevance Pentacostal", "Church", "21217", "Mondawmin", "7", "WESTERN", [ "{\"address\":\"1950 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 121, "E2264E3F-9802-4095-9D20-D1F3BFB6257B", 121, 1323890035, "393202", 1323890035, "393202", "{\n}", "Pleasant Rock Baptist Church", "Church", "21229", "Saint Josephs", "8", "SOUTHWESTERN", [ "{\"address\":\"68 KOSSUTH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 122, "97D6D0BF-411D-4BF2-ACD9-77A101E32F28", 122, 1323890035, "393202", 1323890035, "393202", "{\n}", "Highway Christian Church", "Church", "21202", "Johnston Square", "12", "EASTERN", [ "{\"address\":\"1100 HOMEWOOD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 123, "0110055A-EF1C-4EFF-9134-5028C0BA5C38", 123, 1323890035, "393202", 1323890035, "393202", "{\n}", "Harvst Of Rest Santuary Of Praise", "Church", "21218", "Harwood", "12", "NORTHERN", [ "{\"address\":\"2552 GREENMOUNT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 124, "06F7905E-6949-4422-94A2-9E5E5C743398", 124, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ United Methodist Church", "Church", "21205", "Middle East", "13", "EASTERN", [ "{\"address\":\"2005 CHASE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 125, "A93421CB-D46C-4456-82AE-67B06785839F", 125, 1323890035, "393202", 1323890035, "393202", "{\n}", "Trinity Ame Church", "Church", "21213", "Broadway East", "13", "EASTERN", [ "{\"address\":\"2140 HOFFMAN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 126, "9C2B861C-79B5-4505-BE51-2C3CE5062A6B", 126, 1323890035, "393202", 1323890035, "393202", "{\n}", "Evangelical Bible Church", "Church", "21230", "Morrell Park", "10", "SOUTHWESTERN", [ "{\"address\":\"2444 WASHINGTON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 127, "A5024DA9-EE45-4F39-BEF4-49567215C265", 127, 1323890035, "393202", 1323890035, "393202", "{\n}", "Concord Baptist Church", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"5204 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 128, "1F6C5284-67B6-4D07-AAA7-43D9E6B3EA66", 128, 1323890035, "393202", 1323890035, "393202", "{\n}", "Salem United Methodist Church", "Church", "21224", "Highlandtown", "1", "SOUTHEASTERN", [ "{\"address\":\"3403 GOUGH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 129, "870506C8-AEE0-46D4-BA5C-47995D4834D8", 129, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Gethesemane Missionary Baptist Ch", "Church", "21213", "Berea", "13", "EASTERN", [ "{\"address\":\"2525 PRESTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 130, "3D631DA4-48CC-4B69-B169-E6E7F56EED4A", 130, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greek Orthodox Community  St. Nicholas Ch", "Church", "21224", "Greektown", "2", "SOUTHEASTERN", [ "{\"address\":\"520 PONCA ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 131, "780FD506-DE04-4118-BF37-697E7D2B020D", 131, 1323890035, "393202", 1323890035, "393202", "{\n}", "Northwest Church Of God", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"3008 OAKLEY AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 132, "BAEFA61A-3F07-4325-A901-380DC9A95033", 132, 1323890035, "393202", 1323890035, "393202", "{\n}", "Berea Lutheran Church", "Church", "21213", "Broadway East", "13", "EASTERN", [ "{\"address\":\"2214 OLIVER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 133, "66C33FFA-7BE6-4419-9957-49071ED043A5", 133, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christadelphian Church Central", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"2606 GWYNNDALE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 134, "B937C4DA-26E3-4C36-8353-54349CC59752", 134, 1323890035, "393202", 1323890035, "393202", "{\n}", "Trinity Baptist Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1601 DRUID HILL AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 135, "98ACCC35-CE2B-41AA-912C-36E990F4E239", 135, 1323890035, "393202", 1323890035, "393202", "{\n}", "Emmanuel Episcopal Church", "Church", "21201", "Mount Vernon", "11", "CENTRAL", [ "{\"address\":\"811 CATHEDRAL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 136, "E973CF39-A3DB-45FC-8FA8-E334A4791196", 136, 1323890035, "393202", 1323890035, "393202", "{\n}", "First John Tabernacle Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1801 PRESTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 137, "8F25AA85-7266-4EF5-85D1-442336903B53", 137, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ Deliverance Church", "Church", "21229", "Rognel Heights", "8", "SOUTHWESTERN", [ "{\"address\":\"711 WALNUT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 138, "1C1DDF44-E08E-4414-A604-722FC1D798EF", 138, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Union Baptist Church", "Church", "21223", "Midtown-Edmondson", "9", "WESTERN", [ "{\"address\":\"510 MONROE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 139, "A5C152CD-D021-47EF-A495-C45921960802", 139, 1323890035, "393202", 1323890035, "393202", "{\n}", "Douglas Memorial Community Church", "Church", "21217", "Madison Park", "11", "CENTRAL", [ "{\"address\":\"1325 MADISON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 140, "B5BD6039-9465-4111-98E5-045DC5C58C54", 140, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Mount Zion Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1800 GAY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 141, "613131FD-4615-4373-8415-4D456A7E2752", 141, 1323890035, "393202", 1323890035, "393202", "{\n}", "Lovely Hill Baptist Church", "Church", "21216", "Coppin Heights/Ash-Co-East", "7", "WESTERN", [ "{\"address\":\"1654 SMALLWOOD ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 142, "0397B50B-FF0C-4551-9EFE-5E2F72ED099F", 142, 1323890035, "393202", 1323890035, "393202", "{\n}", "Lion Of Judah Praise Temple", "Church", "21223", "Hollins Market", "9", "SOUTHERN", [ "{\"address\":\"1201 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 143, "212F84FE-0107-4ECE-AE1E-F8640C44B29C", 143, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christian Community Church Of God", "Church", "21223", "Shipley Hill", "9", "SOUTHWESTERN", [ "{\"address\":\"2701 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 144, "E2AAFB63-ED55-49B3-BF4D-75D292799B16", 144, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Carmel Grace Baptist Church", "Church", "21218", "Harwood", "12", "NORTHERN", [ "{\"address\":\"300 25TH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 145, "D69675FC-A4AD-4AA4-9C13-39E84848815A", 145, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Calvary Church", "Church", "21201", "Seton Hill", "11", "CENTRAL", [ "{\"address\":\"816 EUTAW ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 146, "2FB9E765-56D7-4A80-955C-40518DE6C0AD", 146, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ Temple Church", "Church", "21217", "Druid Heights", "11", "CENTRAL", [ "{\"address\":\"2117 PENNSYLVANIA AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 147, "4651A993-794C-4F2A-B7E5-C86CB6268D36", 147, 1323890035, "393202", 1323890035, "393202", "{\n}", "Gethsemane Baptist Church", "Church", "21217", "Penn North", "7", "WESTERN", [ "{\"address\":\"2520 FRANCIS ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 148, "3E75043E-6F0D-459F-B7B8-C27F2BAAFD5F", 148, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Edward's Romand Catholic Church", "Church", "21216", "Mosher", "9", "WESTERN", [ "{\"address\":\"901 POPLAR GROVE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 149, "163D674A-8C54-4950-B42D-D8B43FD46089", 149, 1323890035, "393202", 1323890035, "393202", "{\n}", "John Wesley Ame Zion Church", "Church", "21205", "Middle East", "13", "EASTERN", [ "{\"address\":\"1923 ASHLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 150, "7187F479-AD3E-46DA-8F87-7B94B32E314D", 150, 1323890035, "393202", 1323890035, "393202", "{\n}", "Sought Out Redeem Church Of Lord", "Church", "21206", "Frankford", "2", "NORTHEASTERN", [ "{\"address\":\"5827 MORAVIA RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 151, "7B80220A-E36F-4E1A-9358-EA0C234DBBF4", 151, 1323890035, "393202", 1323890035, "393202", "{\n}", "Ebenezer A.M.E. Church", "Church", "21230", "Federal Hill", "11", "SOUTHERN", [ "{\"address\":\"20 MONTGOMERY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 152, "9C915E09-88A2-4704-A24D-E09A93F38ACE", 152, 1323890035, "393202", 1323890035, "393202", "{\n}", "Israel Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1220 CHESTER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 153, "18BA5923-138A-43DB-99BA-ACE805278B1F", 153, 1323890035, "393202", 1323890035, "393202", "{\n}", "Stoney Run Friends Meeting", "Church", "21210", "Wyndhurst", "6", "NORTHERN", [ "{\"address\":\"5116 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 154, "880FB4A7-D003-4991-8873-64B1DD5D20F2", 154, 1323890035, "393202", 1323890035, "393202", "{\n}", "Shiloh Christian Community Church", "Church", "21223", "Shipley Hill", "9", "SOUTHWESTERN", [ "{\"address\":\"2500 LOMBARD ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 155, "5DA2495B-F6BC-4C97-B5A3-7F205EF9703D", 155, 1323890035, "393202", 1323890035, "393202", "{\n}", "Garden Of Prayer Church Of God", "Church", "21212", "Pen Lucy", "4", "NORTHERN", [ "{\"address\":\"4231 YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 156, "15AC06E2-2B7B-441A-88B0-7FD518F34CB2", 156, 1323890035, "393202", 1323890035, "393202", "{\n}", "North Star Baptist Church", "Church", "21207", "Dorchester", "5", "NORTHWESTERN", [ "{\"address\":\"4216 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 157, "206FEAAC-878C-455D-98E6-84B7271B52BA", 157, 1323890035, "393202", 1323890035, "393202", "{\n}", "Faith United Baptist Church", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"2840 THE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 158, "925EF656-49CB-472E-BD2C-4DD16B8FED22", 158, 1323890035, "393202", 1323890035, "393202", "{\n}", "Waters Ame Church", "Church", "21202", "Oldtown", "12", "EASTERN", [ "{\"address\":\"413 AISQUITH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 159, "A7CB9890-2BA9-48D9-A82F-1166EB20764C", 159, 1323890035, "393202", 1323890035, "393202", "{\n}", "Gateway Church Of Christ Disciple", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"1563 FULTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 160, "FE73F7B2-4E7C-4D4E-AA4A-902D64FC6366", 160, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Christian Fellowship Baptist Church", "Church", "21207", "Central Forest Park", "6", "NORTHWESTERN", [ "{\"address\":\"4015 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 161, "1BE0670C-2FD0-4BA6-840C-E78045C9BE2E", 161, 1323890035, "393202", 1323890035, "393202", "{\n}", "Davis Memorial A.M.E. Church", "Church", "21216", "Garwyn Oaks", "6", "NORTHWESTERN", [ "{\"address\":\"2409 ROSLYN AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 162, "4C5F0A71-3A28-429E-95AF-8DFFCEE6B96B", 162, 1323890035, "393202", 1323890035, "393202", "{\n}", "Peoples Baptist Church", "Church", "21218", "East Baltimore Midway", "12", "EASTERN", [ "{\"address\":\"2109 GREENMOUNT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 163, "CB4958F8-BBCF-4B83-82D2-25DB149B6222", 163, 1323890035, "393202", 1323890035, "393202", "{\n}", "Faith & Saint Mark's Church", "Church", "21206", "Frankford", "2", "NORTHEASTERN", [ "{\"address\":\"4839 HAZELWOOD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 164, "4E0846EC-B94F-4958-B09C-FF81D9AA8292", 164, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Saint Mark Baptist Church", "Church", "21207", "Central Forest Park", "6", "NORTHWESTERN", [ "{\"address\":\"3905 SPRINGDALE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 165, "2B5AB86A-02C4-4B43-8990-E0F3752BE68E", 165, 1323890035, "393202", 1323890035, "393202", "{\n}", "House Of God Church", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"2660 POLK ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 166, "2C372FB8-FE3C-4071-8FB0-1406040B6520", 166, 1323890035, "393202", 1323890035, "393202", "{\n}", "Wings Of Victory Church", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"2660 POLK ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 167, "0A1A56E3-8D51-4C44-A3B0-120FFA7CED24", 167, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Matthias Episcopal Church", "Church", "21206", "Rosemont East", "2", "NORTHEASTERN", [ "{\"address\":\"6400 BELAIR RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 168, "C7BB622A-7EFF-46A4-A96F-82E6F5C58B72", 168, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Dominic Church", "Church", "21214", "Harford-Echodale/Perring Parkway", "3", "NORTHEASTERN", [ "{\"address\":\"5310 HARFORD RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 169, "CF38A287-9973-4C34-9ECA-BF1136E96294", 169, 1323890035, "393202", 1323890035, "393202", "{\n}", "Emmanuel Temple Church", "Church", "21223", "Shipley Hill", "9", "SOUTHWESTERN", [ "{\"address\":\"2500 FREDERICK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 170, "7E753774-B1E8-4EF4-AC08-5D7BEF173FD5", 170, 1323890035, "393202", 1323890035, "393202", "{\n}", "Stillmeadow Christian Church", "Church", "21229", "Westgate", "8", "SOUTHWESTERN", [ "{\"address\":\"5110 FREDERICK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 171, "F7D85CFA-E13C-46E2-A223-0C4D43BB102B", 171, 1323890035, "393202", 1323890035, "393202", "{\n}", "Tabernacle Church Of Deliverance", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1752 CHESTER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 172, "85AF02CC-CC18-4D73-BCE0-17C1A7DD3C9A", 172, 1323890035, "393202", 1323890035, "393202", "{\n}", "Philadelphia Ministries", "Church", "21213", "Belair-Edison", "13", "NORTHEASTERN", [ "{\"address\":\"3401 MANNASOTA AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 173, "BED96A2F-A222-4773-A16C-CD9CDED811EE", 173, 1323890035, "393202", 1323890035, "393202", "{\n}", "Heritage United Church Of Christ", "Church", "21215", "Ashburton", "7", "NORTHWESTERN", [ "{\"address\":\"3106 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 174, "1F848131-8395-4759-9DFC-584FD89D9B34", 174, 1323890035, "393202", 1323890035, "393202", "{\n}", "The Empowerment Temple A.M.E.", "Church", "21217", "Bolton Hill", "11", "CENTRAL", [ "{\"address\":\"1505 EUTAW PL\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 175, "9A51B122-F472-4A55-A87A-F0E3A83C84A0", 175, 1323890035, "393202", 1323890035, "393202", "{\n}", "Wayland Baptist Church", "Church", "21216", "Concerned Citizens Of Forest Park", "6", "NORTHWESTERN", [ "{\"address\":\"3200 GARRISON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 176, "B6350F47-D925-40B0-81F6-F3B27D5711AA", 176, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Matthews Methodist Church", "Church", "21205", "Ellwood Park/Monument", "13", "SOUTHEASTERN", [ "{\"address\":\"627 BOULDIN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 177, "3DD45629-B461-458E-9D06-665C878C0C4B", 177, 1323890035, "393202", 1323890035, "393202", "{\n}", "Flat Rock Baptist Church", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"1701 MULBERRY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 178, "E0A7940E-DE1D-47CC-A817-7D764975C94A", 178, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Abyssinia Baptist Church", "Church", "21216", "Evergreen Lawn", "9", "WESTERN", [ "{\"address\":\"2500 ARUNAH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 179, "072A5C92-E7B3-44E3-94C5-C83041EC5EF9", 179, 1323890035, "393202", 1323890035, "393202", "{\n}", "David Memorial Baptist Church", "Church", "21213", "Berea", "13", "EASTERN", [ "{\"address\":\"1401 MILTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 180, "E92D67FF-96B7-42B7-A630-5308E11FE5DF", 180, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Pauls Lutheran Church", "Church", "21224", "Baltimore-Linwood", "1", "SOUTHEASTERN", [ "{\"address\":\"141 CLINTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 181, "6FDA7420-5D44-44F4-A97E-148A4B349E8C", 181, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Paul's Episcopal Church", "Church", "21201", "Downtown", "11", "CENTRAL", [ "{\"address\":\"309 CATHEDRAL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 182, "61D7EA30-C113-403B-8E3F-EF39DA8C78AB", 182, 1323890035, "393202", 1323890035, "393202", "{\n}", "Evangelical Baptist Church", "Church", "21215", "Towanda-Grantley", "6", "NORTHWESTERN", [ "{\"address\":\"4430 REISTERSTOWN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 183, "4C241FA1-7EA6-4EF4-B6EA-198E3BC57D8F", 183, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Name Church Of Jesus", "Church", "21215", "Pimlico Good Neighbors", "5", "NORTHWESTERN", [ "{\"address\":\"5345 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 184, "C0858F79-4002-40DE-8B21-C8F0DCCCC9BC", 184, 1323890035, "393202", 1323890035, "393202", "{\n}", "Southern Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1701 CHESTER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 185, "AA9F4794-5D69-42EE-AB17-A9E77FDB41BC", 185, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Martin Church Of Christ", "Church", "21217", "Druid Heights", "11", "CENTRAL", [ "{\"address\":\"2118 MADISON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 186, "9A83BF2C-CF35-46CF-AA4B-560F0DBF8838", 186, 1323890035, "393202", 1323890035, "393202", "{\n}", "House Of Judah Ministries", "Church", "21207", "Central Forest Park", "6", "NORTHWESTERN", [ "{\"address\":\"3836 FOREST PARK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 187, "36ABE718-8E58-478A-B301-6D6EF9E98D39", 187, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint James Episcopal Church", "Church", "21217", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"829 ARLINGTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 188, "8B7635B9-023D-4941-ACA9-2A6E6B0F8CC0", 188, 1323890035, "393202", 1323890035, "393202", "{\n}", "Love Crowd Christian Light Church", "Church", "21217", "Reservoir Hill", "11", "CENTRAL", [ "{\"address\":\"2247 EUTAW PL\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 189, "C6555DD7-4CDE-460C-89B0-7525C0B03C51", 189, 1323890035, "393202", 1323890035, "393202", "{\n}", "Deeper Life Baptist Church", "Church", "21224", "Highlandtown", "2", "SOUTHEASTERN", [ "{\"address\":\"417 EATON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 190, "CB9BD5CF-A9CA-4EC0-82BC-1ED082EB27E8", 190, 1323890035, "393202", 1323890035, "393202", "{\n}", "Knox Presbyterian Church", "Church", "21202", "Oliver", "12", "EASTERN", [ "{\"address\":\"1300 EDEN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 191, "67399E25-8DA3-44F8-96C8-D0A0EFD9E7EB", 191, 1323890035, "393202", 1323890035, "393202", "{\n}", "Edmondson Heights Seventh-Day Adventist C", "Church", "21229", "Rognel Heights", "8", "SOUTHWESTERN", [ "{\"address\":\"810 WALNUT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 192, "8F09DC1F-61C2-4483-B59B-D2991982AB1B", 192, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Sinai Holy Church", "Church", "21225", "Cherry Hill", "10", "SOUTHERN", [ "{\"address\":\"2901 JOSEPH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 193, "9B80DEC2-1319-4491-B2F2-7DC9F1187967", 193, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Fellowship Christian Community Church", "Church", "21215", "Arlington", "5", "NORTHWESTERN", [ "{\"address\":\"5202 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 194, "4D83F4F8-80A3-4334-AE8A-155C3DFD8612", 194, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Carmel Star Baptist Church", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"1847 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 195, "6E32ED07-95F7-4D77-8E03-C22F3E12EFC7", 195, 1323890035, "393202", 1323890035, "393202", "{\n}", "North Baltimore Mennonite Church", "Church", "21210", "Roland Park", "6", "NORTHERN", [ "{\"address\":\"4615 ROLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 196, "EDC7E248-8BF6-40BE-9D29-BC8BAEA136E1", 196, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Bernard's Church", "Church", "21218", "Better Waverly", "14", "NORTHEASTERN", [ "{\"address\":\"928 GORSUCH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 197, "07071C96-55CE-446B-A8DC-EFD1DB2E1C53", 197, 1323890035, "393202", 1323890035, "393202", "{\n}", "Agape Christian Baptist Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1414 MCCULLOH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 198, "8C42DF26-AAF7-4EA7-9318-ADEC04125DEC", 198, 1323890035, "393202", 1323890035, "393202", "{\n}", "Agape Family Fellowship Center", "Church", "21215", "Lucille Park", "6", "NORTHWESTERN", [ "{\"address\":\"4650 REISTERSTOWN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 199, "7C0D9159-FD0F-4E6D-927B-FEC44857CD91", 199, 1323890035, "393202", 1323890035, "393202", "{\n}", "Victory Ministries", "Church", "21212", "Pen Lucy", "4", "NORTHERN", [ "{\"address\":\"807 43RD ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 200, "4685FF2C-C9C7-4B1A-985B-72F77786B673", 200, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Christian Bible Baptist Church", "Church", "21215", "Woodmere", "5", "NORTHWESTERN", [ "{\"address\":\"4003 NORTHERN PKWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 201, "F81FA72F-32FC-4824-9BFD-BAB65EC17428", 201, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Hope Church Of Deliverance", "Church", "21215", "Reisterstown Station", "5", "NORTHWESTERN", [ "{\"address\":\"6218 REISTERSTOWN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 202, "A058CD7D-ECC6-4360-84CC-40C6417A62D0", 202, 1323890035, "393202", 1323890035, "393202", "{\n}", "Trinity Apostolic Faith Church", "Church", "21223", "Gwynns Falls", "8", "SOUTHWESTERN", [ "{\"address\":\"2819 FREDERICK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 203, "6C55C382-42D1-4219-9531-725786C4490A", 203, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Temple Holiness Church", "Church", "21223", "Carrollton Ridge", "9", "SOUTHERN", [ "{\"address\":\"2016 PRATT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 204, "207BA10C-D5DD-45A7-952F-37ED393D93EF", 204, 1323890035, "393202", 1323890035, "393202", "{\n}", "Nazerene Temple", "Church", "21218", "East Baltimore Midway", "12", "EASTERN", [ "{\"address\":\"2312 HARFORD RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 205, "56A9779A-F90D-4E7D-B1AF-8F3618527288", 205, 1323890035, "393202", 1323890035, "393202", "{\n}", "Harbor Heights Baptist Church", "Church", "21224", "Broening Manor", "1", "SOUTHEASTERN", [ "{\"address\":\"1613 CHARLOTTE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 206, "88CA5742-B48D-4C2C-A507-97C810C4CCE6", 206, 1323890035, "393202", 1323890035, "393202", "{\n}", "Gillis Memorial Christian Community Churc", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"4016 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 207, "A5199011-F613-4657-95A6-FB6DDDB9E52C", 207, 1323890035, "393202", 1323890035, "393202", "{\n}", "United Church Of Jesus Christ", "Church", "21217", "Reservoir Hill", "11", "CENTRAL", [ "{\"address\":\"2226 PARK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 208, "1B957474-7518-4ECB-82DE-4CEDEE294AA1", 208, 1323890035, "393202", 1323890035, "393202", "{\n}", "Frist St. Stephens Baptist Church", "Church", "21215", "Cylburn", "6", "NORTHERN", [ "{\"address\":\"4663 PIMLICO RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 209, "413717BE-0374-43CF-9D5D-79A7C2943AFB", 209, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Saint Paul Holy Church", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"1340 CALHOUN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 210, "C7953D8F-52F4-4A72-AA6D-38F12477E1B9", 210, 1323890035, "393202", 1323890035, "393202", "{\n}", "Eastside Baptist Church", "Church", "21213", "Berea", "13", "EASTERN", [ "{\"address\":\"2519 PRESTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 211, "06EAC8E9-CEF7-4CA4-88EE-23FF795EEC84", 211, 1323890035, "393202", 1323890035, "393202", "{\n}", "Lamb Of Life Baptist Church", "Church", "21231", "Washington Hill", "1", "SOUTHEASTERN", [ "{\"address\":\"4 BROADWAY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 212, "83098A23-3D1F-48BB-9653-B2EE17EEBFE9", 212, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Metro Baptist Church", "Church", "21217", "Madison Park", "11", "CENTRAL", [ "{\"address\":\"1501 MCCULLOH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 213, "079BBE58-165B-43A9-9D59-29C5604DEB79", 213, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Cross Church", "Church", "21230", "Riverside", "10", "SOUTHERN", [ "{\"address\":\"110 WEST ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 214, "6FD648D9-4650-4F7E-B3AF-8DABCD691270", 214, 1323890035, "393202", 1323890035, "393202", "{\n}", "Immanuel Temple A.M.E. Church", "Church", "21205", "Madison-Eastend", "13", "EASTERN", [ "{\"address\":\"2931 MADISON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 215, "56D23E06-01D6-47B1-9F6F-2DAAF30857D3", 215, 1323890035, "393202", 1323890035, "393202", "{\n}", "Monroe Street Church Of God", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"301 MONROE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 216, "BA32CAEF-33DB-4544-A3CC-555AB1CF4A6A", 216, 1323890035, "393202", 1323890035, "393202", "{\n}", "The Gospel According To Jesus Christ Mini", "Church", "21205", "Orangeville Industrial Area", "13", "EASTERN", [ "{\"address\":\"3200 MONUMENT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 217, "3AA42FCD-1573-40B1-8029-670272012C2A", 217, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Sinai Baptist Church", "Church", "21202", "Johnston Square", "12", "EASTERN", [ "{\"address\":\"922 PRESTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 218, "08E606FC-E6D8-46AC-831F-A8FA49B96350", 218, 1323890035, "393202", 1323890035, "393202", "{\n}", "Westside Assembly Of God", "Church", "21223", "Carrollton Ridge", "9", "SOUTHWESTERN", [ "{\"address\":\"533 SMALLWOOD ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 219, "9589FE68-436F-4F4B-9392-77BC6C8B66F3", 219, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Francis Xavier Church Hall", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1501 OLIVER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 220, "8807D3DB-2A0E-4CD2-B63D-C3EC368A24BA", 220, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Christian Baptist Church", "Church", "21215", "West Arlington", "6", "NORTHWESTERN", [ "{\"address\":\"4116 GROVELAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 221, "2CDBCD06-EB1A-47A3-BD44-B48955EBB3E4", 221, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Rock Church Outreach Ministries", "Church", "21205", "Middle East", "13", "EASTERN", [ "{\"address\":\"728 COLLINGTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 222, "929D2CE0-AD02-4FEA-A9E7-337AA47F8B99", 222, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Baptist Church", "Church", "21287", "Dunbar-Broadway", "12", "EASTERN", [ "{\"address\":\"525 CAROLINE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 223, "77E9C78B-E085-4A62-9999-B25DD8CDA7E1", 223, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Grace Of West Baltimore", "Church", "21223", "Midtown-Edmondson", "9", "WESTERN", [ "{\"address\":\"2114 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 224, "D7F216AD-5CFA-471C-8C2B-B2376E91F225", 224, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christian Love Baptist Church", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"1925 DUKELAND ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 225, "D6DCA4E9-9530-4AD0-B45D-3B579B854D00", 225, 1323890035, "393202", 1323890035, "393202", "{\n}", "Payne Memorial A.M.E. Church", "Church", "21217", "Madison Park", "11", "CENTRAL", [ "{\"address\":\"1714 MADISON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 226, "665106C9-CC09-4293-A09E-167BEBACA6A6", 226, 1323890035, "393202", 1323890035, "393202", "{\n}", "Gospel Tabernacle Baptist Church", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"3100 WALBROOK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 227, "3E3D454B-8ED0-400B-A41E-D202E946E8E6", 227, 1323890035, "393202", 1323890035, "393202", "{\n}", "Olivet Baptist Church", "Church", "21229", "Edmondson Village", "8", "SOUTHWESTERN", [ "{\"address\":\"3500 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 228, "040843DF-0E68-43F2-8A31-5DF99AB31330", 228, 1323890035, "393202", 1323890035, "393202", "{\n}", "Old Landmark Baptist Church", "Church", "21205", "Gay Street", "12", "EASTERN", [ "{\"address\":\"814 BROADWAY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 229, "E7039CC7-F50F-433B-B21F-69BF1366D4B4", 229, 1323890035, "393202", 1323890035, "393202", "{\n}", "Trinity Presbyterian Church", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"3200 WALBROOK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 230, "2D029FC0-1FEB-42A0-A018-2C576436C0A5", 230, 1323890035, "393202", 1323890035, "393202", "{\n}", "Northeast Baptist Church", "Church", "21205", "Armistead Gardens", "13", "NORTHEASTERN", [ "{\"address\":\"1400 HORNERS LN\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 231, "0D06A63E-4356-40D5-85E5-1B1E284841E0", 231, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Song Urban Ministry, Inc.", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"1501 GILMOR ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 232, "C2F74F47-E8FB-4A43-894E-422DD9FA9208", 232, 1323890035, "393202", 1323890035, "393202", "{\n}", "Berean Baptist Church", "Church", "21215", "Arlington", "5", "NORTHWESTERN", [ "{\"address\":\"3523 HAYWARD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 233, "D5F2CDB8-1497-4E85-992B-7C9D481F2EF4", 233, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bethel United Church", "Church", "21213", "Mayfield", "3", "NORTHEASTERN", [ "{\"address\":\"2301 MAYFIELD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 234, "6D372ECB-B75A-4F2E-A567-E26E7FD34100", 234, 1323890035, "393202", 1323890035, "393202", "{\n}", "Sweet Prospect Baptist Church", "Church", "21205", "Middle East", "13", "EASTERN", [ "{\"address\":\"1013 DURHAM ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 235, "A0BEF4A3-F2E4-41D6-B2C0-2A6093350C77", 235, 1323890035, "393202", 1323890035, "393202", "{\n}", "East Baltimore Church Of God", "Church", "21231", "Butcher's Hill", "1", "SOUTHEASTERN", [ "{\"address\":\"2043 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 236, "87BAF4C2-6754-4B48-ABB2-F9E0065145C9", 236, 1323890035, "393202", 1323890035, "393202", "{\n}", "Eastern United Methodist Church", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1429 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 237, "39A30C34-CCA1-4CF0-BF2F-9E3A6E8CD103", 237, 1323890035, "393202", 1323890035, "393202", "{\n}", "Union Baptist Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1219 DRUID HILL AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 238, "835C3624-C247-4C1D-A099-C6E1EDA577DF", 238, 1323890035, "393202", 1323890035, "393202", "{\n}", "Moravia Assembly Of God", "Church", "21206", "Frankford", "2", "NORTHEASTERN", [ "{\"address\":\"4602 SIPPLE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 239, "215346E7-AB42-47D6-90D9-C206A6E3910A", 239, 1323890035, "393202", 1323890035, "393202", "{\n}", "Doswell Cathedral Church Of God", "Church", "21223", "Rosemont Homeowners/Tenants", "9", "WESTERN", [ "{\"address\":\"520 DOSWELL AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 240, "537496D7-A228-414C-A3C3-533F133F2101", 240, 1323890035, "393202", 1323890035, "393202", "{\n}", "Zion Baptist Church", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1700 CAROLINE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 241, "B481D2F9-5579-4684-AC32-C7E7561C225A", 241, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Zion Apostolic Faith Church", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"5501 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 242, "FB11FB3F-E8AD-4FEF-BCBB-2FCBC765C39F", 242, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of The Redeemed Of The Lord", "Church", "21212", "Wilson Park", "4", "NORTHERN", [ "{\"address\":\"4321 OLD YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 243, "AB763714-7D35-422C-9313-B3BF510BD95C", 243, 1323890035, "393202", 1323890035, "393202", "{\n}", "The Church Of The Redeemed Of The Lord", "Church", "21212", "Wilson Park", "4", "NORTHERN", [ "{\"address\":\"4321 OLD YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 244, "FD7D2407-24A1-488B-92DC-CD500F096E58", 244, 1323890035, "393202", 1323890035, "393202", "{\n}", "Carter Memorial Church Of God", "Church", "21201", "Poppleton", "11", "WESTERN", [ "{\"address\":\"745 FAYETTE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 245, "BEA53939-CC83-4FB7-BBF2-A509876CB924", 245, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of God In Christ", "Church", "21201", "Poppleton", "11", "WESTERN", [ "{\"address\":\"745 FAYETTE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 246, "567129CA-B28F-4CA1-B5E4-47B1939C5936", 246, 1323890035, "393202", 1323890035, "393202", "{\n}", "Memorial Episcopal Church", "Church", "21217", "Bolton Hill", "11", "CENTRAL", [ "{\"address\":\"1407 BOLTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 247, "BEEFFCE9-9C54-43D5-A62C-62F96CDBD733", 247, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Marks United Church Of God", "Church", "21215", "Woodmere", "5", "NORTHWESTERN", [ "{\"address\":\"5239 REISTERSTOWN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 248, "C07E2D15-3D35-4F8E-B384-EFCAD7CDC35F", 248, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Zion Methodist Church", "Church", "21215", "Ashburton", "7", "NORTHWESTERN", [ "{\"address\":\"3050 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 249, "C40327D6-853E-4CC7-BF7C-1547898511EB", 249, 1323890035, "393202", 1323890035, "393202", "{\n}", "Full Gospel Fellowship Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"5011 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 250, "9294A4BF-51CB-4ADF-BFCB-745F6D00B6FC", 250, 1323890035, "393202", 1323890035, "393202", "{\n}", "Emmanuel English Lutheran Church", "Church", "21224", "Baltimore-Linwood", "1", "SOUTHEASTERN", [ "{\"address\":\"3131 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 251, "B978075B-BDDB-457A-A2A4-B7424BFA365F", 251, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Ann's Church", "Church", "21218", "East Baltimore Midway", "12", "EASTERN", [ "{\"address\":\"528 22ND ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 252, "72B58E68-97D1-4A23-AF63-E285258704D0", 252, 1323890035, "393202", 1323890035, "393202", "{\n}", "Govans Presbyterian Church", "Church", "21212", "Rosebank", "4", "NORTHERN", [ "{\"address\":\"5828 YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 253, "08E36FB9-7198-46C8-B850-1C60C673A878", 253, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ United Church Of Christ", "Church", "21230", "Locust Point Industrial Area", "10", "SOUTHERN", [ "{\"address\":\"1308 BEASON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 254, "E1B9DFB1-9260-4999-B9B5-9CFB2973B523", 254, 1323890035, "393202", 1323890035, "393202", "{\n}", "Brown Memorial Community Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"3215 BELVEDERE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 255, "2422D1D8-68AD-4164-A00D-D1B1B4AF555C", 255, 1323890035, "393202", 1323890035, "393202", "{\n}", "Metropolitan Church Of God", "Church", "21224", "Greektown", "2", "SOUTHEASTERN", [ "{\"address\":\"4815 EASTERN AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 256, "2E25F5F1-A593-4FBC-AD40-FD68D2DC295D", 256, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater New Hope Baptist Church", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"2720 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 257, "783B505C-65D3-46D3-90D6-F94E3BCBD395", 257, 1323890035, "393202", 1323890035, "393202", "{\n}", "Messiah Lutheran Church", "Church", "21224", "Canton", "1", "SOUTHEASTERN", [ "{\"address\":\"1025 POTOMAC ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 258, "404070D0-D367-430C-931F-4E53CFA54221", 258, 1323890035, "393202", 1323890035, "393202", "{\n}", "People's Church Of Baltimore", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"230 FULTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 259, "3D3A1BA2-1908-4EDE-8D2B-8E1228F8AB4F", 259, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Life Missionary Baptist Church", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1801 BOND ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 260, "902C26DA-3014-4F21-B9BB-31CC33F92FE3", 260, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Bethel Bible Church", "Church", "21216", "Franklintown Road", "9", "SOUTHWESTERN", [ "{\"address\":\"710 POPLAR GROVE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 261, "B224F536-3E29-4BC5-B768-78954AA61956", 261, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of Advent Church Of Federal Hill", "Church", "21230", "SBIC", "10", "SOUTHERN", [ "{\"address\":\"1301 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 262, "2FDF41E9-65D1-477B-9C4D-B6F1BC73CAF7", 262, 1323890035, "393202", 1323890035, "393202", "{\n}", "Pleasant Grove Baptist Church", "Church", "21229", "Irvington", "8", "SOUTHWESTERN", [ "{\"address\":\"214 LOUDON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 263, "407F259F-97EB-409C-9845-DB568C9DF830", 263, 1323890035, "393202", 1323890035, "393202", "{\n}", "Augsburg Lutheran Church Center", "Church", "21216", "Garwyn Oaks", "6", "NORTHWESTERN", [ "{\"address\":\"2610 GARRISON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 264, "4BC63C55-8589-4B85-B2D9-DFD4FFE5D27F", 264, 1323890035, "393202", 1323890035, "393202", "{\n}", "Providence Baptist Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1401 PENNSYLVANIA AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 265, "9BC23191-1F11-4F6A-8530-51DB9AAFF6EE", 265, 1323890035, "393202", 1323890035, "393202", "{\n}", "South Broadway Baptist Church", "Church", "21231", "Fells Point", "1", "SOUTHEASTERN", [ "{\"address\":\"211 BROADWAY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 266, "C96085C9-4EC9-40EB-B335-A129F69B4BAE", 266, 1323890035, "393202", 1323890035, "393202", "{\n}", "Berean Bible Church", "Church", "21231", "Middle East", "13", "EASTERN", [ "{\"address\":\"2024 ORLEANS ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 267, "8C26FC3E-E460-4155-A27F-2C4AE1738086", 267, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Church Of God", "Church", "21206", "Frankford", "2", "NORTHEASTERN", [ "{\"address\":\"4801 SIPPLE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 268, "55715659-71F2-49ED-AB74-659852EDDCAE", 268, 1323890035, "393202", 1323890035, "393202", "{\n}", "The First Church Of God Of Baltimore", "Church", "21206", "Frankford", "2", "NORTHEASTERN", [ "{\"address\":\"4801 SIPPLE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 269, "1D5D719E-BB45-4F19-95AD-DF7FFF52D0E3", 269, 1323890035, "393202", 1323890035, "393202", "{\n}", "Zoe Miracle Church Ministeries", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"4119 REISTERSTOWN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 270, "0622EEEA-939A-4208-A911-861E16EAC693", 270, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mason Memorial Church Of God", "Church", "21223", "Shipley Hill", "9", "SOUTHWESTERN", [ "{\"address\":\"2608 FREDERICK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 271, "E8E1F0CF-20BC-4735-ADD3-31D7FC9B1093", 271, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Zion Church Of God In Christ", "Church", "21213", "Berea", "13", "EASTERN", [ "{\"address\":\"2539 OLIVER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 272, "F29DC4B3-9797-4BD0-99E9-7F83263DBB51", 272, 1323890035, "393202", 1323890035, "393202", "{\n}", "Open Door Bibleway Church", "Church", "21216", "Mosher", "9", "WESTERN", [ "{\"address\":\"2809 RAYNER AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 273, "64B5BAD8-A5FA-4EEE-A6F6-7252DADBFB8D", 273, 1323890035, "393202", 1323890035, "393202", "{\n}", "Unity United Methodist Church", "Church", "21223", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"1433 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 274, "E9C8EFCD-0700-4DC5-AB7C-63AD99E373F1", 274, 1323890035, "393202", 1323890035, "393202", "{\n}", "Huber Memorial Church", "Church", "21212", "Mid-Govans", "4", "NORTHERN", [ "{\"address\":\"5701 YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 275, "B43490C8-46DF-4127-AA80-F9572FC194EA", 275, 1323890035, "393202", 1323890035, "393202", "{\n}", "Berea Temple Of Seventh-Day Adventisti", "Church", "21217", "Madison Park", "11", "CENTRAL", [ "{\"address\":\"1901 MADISON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 276, "BED42EB5-E9B4-4224-9C2F-66885541CDCA", 276, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Mount Zion Baptist Church", "Church", "21217", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"817 MOUNT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 277, "049A5CE9-388C-4A4F-8029-478305A68360", 277, 1323890035, "393202", 1323890035, "393202", "{\n}", "Enon Baptist Church", "Church", "21223", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"601 SCHROEDER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 278, "420B8C7A-B054-4750-A0DD-A5E5A6790B61", 278, 1323890035, "393202", 1323890035, "393202", "{\n}", "Trinity Apostolic Faith Church", "Church", "21207", "Grove Park", "5", "NORTHWESTERN", [ "{\"address\":\"3600 ROGERS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 279, "83F08476-7196-4491-8177-DE48D06A65E6", 279, 1323890035, "393202", 1323890035, "393202", "{\n}", "The City Temple Church Of Baltimore", "Church", "21217", "Madison Park", "11", "CENTRAL", [ "{\"address\":\"EUTAW PL\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 280, "74C08714-0CC7-43C3-A42C-26D45AB2B129", 280, 1323890035, "393202", 1323890035, "393202", "{\n}", "Patterson Park Baptist Church", "Church", "21224", "Canton", "1", "SOUTHEASTERN", [ "{\"address\":\"3115 EASTERN AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 281, "3CA04869-0275-48C0-AE3B-3158B34B5BE9", 281, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Pilgrim Baptist Church", "Church", "21205", "Middle East", "13", "EASTERN", [ "{\"address\":\"629 WASHINGTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 282, "9E3265CE-2BF3-4761-B1EF-E11F9954DE2D", 282, 1323890035, "393202", 1323890035, "393202", "{\n}", "People Of God Prayer Praise And Worship C", "Church", "21223", "Hollins Market", "9", "SOUTHERN", [ "{\"address\":\"1137 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 283, "8EC543D9-390C-4662-A579-971A9D8D295C", 283, 1323890035, "393202", 1323890035, "393202", "{\n}", "Wilson Park Christian Church", "Church", "21212", "Wilson Park", "4", "NORTHERN", [ "{\"address\":\"4629 YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 284, "D14BEE88-45D9-4A70-AC27-B16994521FDD", 284, 1323890035, "393202", 1323890035, "393202", "{\n}", "Word Of Deliverance Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1700 MCCULLOH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 285, "58E1E613-AFE7-4C42-9311-BDD5B3484639", 285, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Veronica's Catholic Church", "Church", "21225", "Cherry Hill", "10", "SOUTHERN", [ "{\"address\":\"806 CHERRY HILL RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 286, "EEC73A38-B8F4-4847-8F88-25B0FA219344", 286, 1323890035, "393202", 1323890035, "393202", "{\n}", "Friendly United Charity Church", "Church", "21223", "Penrose/Fayette Street Outreach", "9", "SOUTHWESTERN", [ "{\"address\":\"2869 FRANKLIN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 287, "47C6607C-88CD-4178-9CCD-6F8B5FB2320C", 287, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Zion Hill Baptist Church", "Church", "21213", "Berea", "13", "EASTERN", [ "{\"address\":\"2432 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 288, "9C058DFB-0A50-4CD5-9A3E-2EA940D7A567", 288, 1323890035, "393202", 1323890035, "393202", "{\n}", "Memorial Baptist Church", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1301 CAROLINE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 289, "2880B814-1838-4D9B-8F1C-963B98E6ED8E", 289, 1323890035, "393202", 1323890035, "393202", "{\n}", "Word & Truth Tabernacle Church", "Church", "21223", "Poppleton", "9", "WESTERN", [ "{\"address\":\"929 FAYETTE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 290, "2A690965-4042-48AF-8EB2-04FF8C7529C4", 290, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Mt. Carmel Christian Community Chur", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"2700 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 291, "DF1E305E-2A0A-4A31-A463-6933056EEE40", 291, 1323890035, "393202", 1323890035, "393202", "{\n}", "Grace Presbyterian Church", "Church", "21215", "Cylburn", "6", "NORTHERN", [ "{\"address\":\"2604 BANISTER RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 292, "C00444E4-9A08-405B-8A96-561D3B2A19AA", 292, 1323890035, "393202", 1323890035, "393202", "{\n}", "Prayer And Faith Ministry Baptist Church", "Church", "21213", "Broadway East", "13", "EASTERN", [ "{\"address\":\"1865 GAY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 293, "C0A0F6B9-E4E3-4563-B593-84A0BD3ABF36", 293, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Friendship Baptist Church", "Church", "21205", "Gay Street", "12", "EASTERN", [ "{\"address\":\"1515 EAGER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 294, "6E3F2461-0512-4E0E-B67A-36F8328F87BE", 294, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Abraham Baptist Church", "Church", "21217", "Reservoir Hill", "11", "CENTRAL", [ "{\"address\":\"1124 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 295, "E3106944-4830-4392-84A2-9556512E17DD", 295, 1323890035, "393202", 1323890035, "393202", "{\n}", "Rising Son Baptist Church", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"4907 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 296, "1E1517C7-7FAE-41EC-AD2D-AC8E7F281503", 296, 1323890035, "393202", 1323890035, "393202", "{\n}", "Obedience Church Of God Inc", "Church", "21215", "Burleith-Leighton", "7", "NORTHWESTERN", [ "{\"address\":\"2613 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 297, "8CE90EFC-C58E-4A64-918D-B868C4518060", 297, 1323890035, "393202", 1323890035, "393202", "{\n}", "Grace Baptist Church", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"3201 THE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 298, "E89F6DCD-71F4-4850-8D67-38D6CB15975F", 298, 1323890035, "393202", 1323890035, "393202", "{\n}", "Grace Holy Tabernacle Church", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"1329 SARATOGA ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 299, "C72CF5BE-EFB1-44D0-AAC1-254AC011C591", 299, 1323890035, "393202", 1323890035, "393202", "{\n}", "Community Baptist Church", "Church", "21216", "Hanlon-Longwood", "7", "NORTHWESTERN", [ "{\"address\":\"2311 GARRISON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 300, "B8EFD5A7-D6C5-43FD-9C69-30276F3B629B", 300, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Bethlehem Free Will Church", "Church", "21202", "Oliver", "12", "EASTERN", [ "{\"address\":\"1400 EDEN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 301, "D4EAB010-2ABC-44FB-9B28-C001A561EF25", 301, 1323890035, "393202", 1323890035, "393202", "{\n}", "Hampden Baptist Church", "Church", "21211", "Hampden", "7", "NORTHERN", [ "{\"address\":\"3644 ROLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 302, "4C4E3564-F1E5-4571-A2D1-9C08CA584B15", 302, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Hope Baptist Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"850 HARLEM AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 303, "0F3531F3-8339-4977-A31B-EBF94745C8A3", 303, 1323890035, "393202", 1323890035, "393202", "{\n}", "Perkins Square Baptist Church", "Church", "21216", "Bridgeview/Greenlawn", "9", "WESTERN", [ "{\"address\":\"2304 CALVERTON HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 304, "B22AAB67-88F9-4DE2-81FC-1A276CE2371A", 304, 1323890035, "393202", 1323890035, "393202", "{\n}", "Created For So Much More Worship Center", "Church", "21225", "Cherry Hill", "10", "SOUTHERN", [ "{\"address\":\"701 CHERRY HILL RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 305, "CBD876EB-C584-40A5-86ED-E22484F8BA2A", 305, 1323890035, "393202", 1323890035, "393202", "{\n}", "Burrell Ministries", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"3114 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 306, "F395C6C4-21B1-445E-A8B9-A924158125B8", 306, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Unitarian Universalist Church Of Ba", "Church", "21201", "Mount Vernon", "11", "CENTRAL", [ "{\"address\":\"1 HAMILTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 307, "F0BAE57F-711E-4983-A9C7-8B9C4A5A5B20", 307, 1323890035, "393202", 1323890035, "393202", "{\n}", "Miracle Temple Seventh Day-Adventist Chur", "Church", "21223", "Carrollton Ridge", "9", "SOUTHERN", [ "{\"address\":\"100 FULTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 308, "A3819D69-4B20-450F-B737-5F8CED701FD6", 308, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Mark's Church Of Christ", "Church", "21230", "Morrell Park", "10", "SOUTHWESTERN", [ "{\"address\":\"1805 WICKES AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 309, "D7CFF030-1029-4861-A666-219156E4509E", 309, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Sinai Holiness Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"3069 SPAULDING AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 310, "7E4EE9C6-7734-4569-A86C-B7EE19004DCE", 310, 1323890035, "393202", 1323890035, "393202", "{\n}", "Forest Park Reformed Church", "Church", "21216", "Concerned Citizens Of Forest Park", "6", "NORTHWESTERN", [ "{\"address\":\"3114 GARRISON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 311, "36E5A635-8631-476E-87B7-76DF43D47338", 311, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Vincent De Paul Church", "Church", "21202", "Jonestown", "12", "SOUTHEASTERN", [ "{\"address\":\"120 FRONT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 312, "8C6CDDBA-0E07-4E1B-AE89-1AEBA5CDAE8C", 312, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Mount Hebron Baptist Church", "Church", "21217", "Mondawmin", "7", "WESTERN", [ "{\"address\":\"2016 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 313, "F8A12694-E9AB-40D9-9A29-742563812E16", 313, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Mount Olive Freewill Baptist Church", "Church", "21201", "Poppleton", "11", "WESTERN", [ "{\"address\":\"809 SARATOGA ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 314, "AC78F856-83A4-4070-B2AC-BBCEEC848CE0", 314, 1323890035, "393202", 1323890035, "393202", "{\n}", "Macedonia Baptist Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"718 LAFAYETTE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 315, "EDFDCEE2-1BA2-4F5E-93E6-B29B8C1F1771", 315, 1323890035, "393202", 1323890035, "393202", "{\n}", "Manna Bible Baptist Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"3043 BELVEDERE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 316, "DB056A8F-7E27-4530-8A04-04AA43A1A496", 316, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Hope Baptist Church", "Church", "21217", "Parkview/Woodbrook", "7", "WESTERN", [ "{\"address\":\"1716 GWYNNS FALLS PKWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 317, "2C12AA39-44F5-437B-86EB-B56EBBFD7D5E", 317, 1323890035, "393202", 1323890035, "393202", "{\n}", "Allen A.M.E. Church Of Baltimore", "Church", "21223", "Poppleton", "11", "WESTERN", [ "{\"address\":\"1130 LEXINGTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 318, "4F99E211-45A7-4229-B513-0946E84D0B46", 318, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Mt. Calvary Baptist Church", "Church", "21217", "Sandtown-Winchester", "9", "WESTERN", [ "{\"address\":\"1142 FULTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 319, "FA4255A7-69AC-4E1D-9568-C920B9426DE3", 319, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Stephen's Church Of God", "Church", "21218", "Better Waverly", "14", "NORTHERN", [ "{\"address\":\"1103 MONTPELIER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 320, "04200B79-6E3F-440A-9DCB-9EAC3C666421", 320, 1323890035, "393202", 1323890035, "393202", "{\n}", "Tree Of Life Bible Church", "Church", "21223", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"516 SCHROEDER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 321, "5CD83714-75AF-4AEF-AA85-C5A95AA544E5", 321, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christian Baptist Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"4303 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 322, "250DB953-680E-4099-8274-CAF6F40F73D2", 322, 1323890035, "393202", 1323890035, "393202", "{\n}", "Village Baptist Church", "Church", "21229", "Saint Josephs", "8", "SOUTHWESTERN", [ "{\"address\":\"100 HILTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 323, "E06F78E9-7D4D-4983-827C-E341E23FCDD7", 323, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bible Baptist Church Of Baltimore", "Church", "21230", "Federal Hill", "10", "SOUTHERN", [ "{\"address\":\"454 CROSS ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 324, "E1B8EABA-F829-4679-BC8A-2A92D2347BA6", 324, 1323890035, "393202", 1323890035, "393202", "{\n}", "Temple Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1800 WOLFE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 325, "693447C3-3353-47F4-A7F8-10E61E9A0520", 325, 1323890035, "393202", 1323890035, "393202", "{\n}", "Seventh Baptist Church", "Church", "21202", "Charles North", "12", "CENTRAL", [ "{\"address\":\"24 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 326, "BA2B1906-111C-487B-A453-75CFDF1A5AA5", 326, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Remnant Church Of God", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"5015 GWYNN OAK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 327, "3D26D6B8-4F53-4E4F-B344-465BD57CD87C", 327, 1323890035, "393202", 1323890035, "393202", "{\n}", "Calvary Lutheran Church", "Church", "21214", "Christopher", "3", "NORTHEASTERN", [ "{\"address\":\"2625 NORTHERN PKWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 328, "6B7393AF-5CFC-482E-88F4-9EAF2C1D3528", 328, 1323890035, "393202", 1323890035, "393202", "{\n}", "United Evangelical Church", "Church", "21224", "Canton", "1", "SOUTHEASTERN", [ "{\"address\":\"3200 DILLON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 329, "D95BB0CB-B97F-46DD-AA9A-62B21CB74F92", 329, 1323890035, "393202", 1323890035, "393202", "{\n}", "Immaculate Conception", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1512 DRUID HILL AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 330, "7BE5E854-AEA7-4133-92F2-BEA7361BDD06", 330, 1323890035, "393202", 1323890035, "393202", "{\n}", "Covenant Ministries", "Church", "21231", "Perkins Homes", "1", "SOUTHEASTERN", [ "{\"address\":\"302 MASON CT\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 331, "CFDDB7C0-1D4B-439F-913F-85715C6AF35E", 331, 1323890035, "393202", 1323890035, "393202", "{\n}", "Inner Harbor Church Of God", "Church", "21230", "SBIC", "10", "SOUTHERN", [ "{\"address\":\"1632 HANOVER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 332, "01DFE61E-929D-46D0-93CD-8E2C11F5096C", 332, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Matthew's United Church", "Church", "21213", "Mayfield", "3", "NORTHEASTERN", [ "{\"address\":\"3400 NORMAN AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 333, "F8F0421A-44A5-461A-B925-2098FB68F919", 333, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of Saint Mary The Virgin", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"3121 WALBROOK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 334, "65580227-B64A-4144-BFCE-428A11C55062", 334, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Church Of Our Risen Savior", "Church", "21223", "Penrose/Fayette Street Outreach", "9", "WESTERN", [ "{\"address\":\"200 BENTALOU ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 335, "A453989F-B7AD-4E02-9DF7-27F77D9938E8", 335, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Bethlehem Baptist Church", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"1354 CAREY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 336, "ED0B5AC8-1347-48B1-8822-8E5DCDC77DA8", 336, 1323890035, "393202", 1323890035, "393202", "{\n}", "Fireside Holiness Church", "Church", "21218", "Barclay", "12", "NORTHERN", [ "{\"address\":\"2018 CALVERT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 337, "0BCE3653-1008-4F7C-9915-B6217EDEA4DF", 337, 1323890035, "393202", 1323890035, "393202", "{\n}", "Our Lady Of Pompei Church", "Church", "21224", "Highlandtown", "2", "SOUTHEASTERN", [ "{\"address\":\"3600 CLAREMONT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 338, "4C38DDA9-25BD-4049-886C-1C8B4E3E7ECF", 338, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Trinity Church", "Church", "21217", "Penn North", "7", "WESTERN", [ "{\"address\":\"2601 PENNSYLVANIA AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 339, "2BBAA8EB-67C5-481E-9BE3-59DC8286F9DC", 339, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bethel A.M.E. Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1300 DRUID HILL AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 340, "7BA0714E-F315-4EEA-9C48-07356C0F2AA6", 340, 1323890035, "393202", 1323890035, "393202", "{\n}", "Solid Rock Pentecostal Church Of Christ", "Church", "21213", "Berea", "13", "EASTERN", [ "{\"address\":\"1901 BELAIR RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 341, "4AAC5C39-4861-4E92-9A1C-1BD807540219", 341, 1323890035, "393202", 1323890035, "393202", "{\n}", "Evergreen A.M.E. Church", "Church", "21229", "Saint Josephs", "8", "SOUTHWESTERN", [ "{\"address\":\"3342 OLD FREDERICK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 342, "2F5781E7-31CB-4534-A6CD-216982CF7928", 342, 1323890035, "393202", 1323890035, "393202", "{\n}", "Oak Street Ame Church Inc", "Church", "21218", "Charles Village", "7", "NORTHERN", [ "{\"address\":\"123 24TH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 343, "A304BA95-F094-4992-B0F4-FB0DB8E3CA8D", 343, 1323890035, "393202", 1323890035, "393202", "{\n}", "Calvary Baptist Church", "Church", "21215", "Callaway-Garrison", "6", "NORTHWESTERN", [ "{\"address\":\"3911 GARRISON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 344, "309F1834-5509-47B5-9482-4FBE397B320B", 344, 1323890035, "393202", 1323890035, "393202", "{\n}", "Winston Avenue Baptist Church", "Church", "21218", "Pen Lucy", "14", "NORTHERN", [ "{\"address\":\"500 39TH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 345, "28BB1ABD-3682-40D0-9973-4D5D68B2387F", 345, 1323890035, "393202", 1323890035, "393202", "{\n}", "Zion Hill Baptist Church", "Church", "21202", "Johnston Square", "12", "EASTERN", [ "{\"address\":\"931 PRESTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 346, "7AEF9746-A2B4-450C-A209-FDFF00758312", 346, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Apostolic Faith Church", "Church", "21231", "Washington Hill", "1", "SOUTHEASTERN", [ "{\"address\":\"27 CAROLINE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 347, "532F78F1-581F-4520-B625-6EBED699BBA8", 347, 1323890035, "393202", 1323890035, "393202", "{\n}", "Ames Memorial Methodist Church", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"617 BAKER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 348, "CAB04208-8E98-46B3-A22B-DE0AE60D10FA", 348, 1323890035, "393202", 1323890035, "393202", "{\n}", "Solid Rock Full Gospel Church", "Church", "21216", "Coppin Heights/Ash-Co-East", "7", "WESTERN", [ "{\"address\":\"1646 THOMAS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 349, "C74BC1F1-3FCB-4894-B1F5-712A44090BAD", 349, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christian Science Church", "Church", "21210", "Tuscany-Canterbury", "14", "NORTHERN", [ "{\"address\":\"102 UNIVERSITY PKWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 350, "ED4A2C2F-07BC-4B7E-AE33-717BE71185EF", 350, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Nebo Baptist Church", "Church", "21223", "Penrose/Fayette Street Outreach", "9", "WESTERN", [ "{\"address\":\"16 MONROE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 351, "3E941626-6344-4DA8-A216-873758439E37", 351, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of The New Covenant Inc", "Church", "21213", "South Clifton Park", "12", "EASTERN", [ "{\"address\":\"1909 WOLFE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 352, "A2EBD395-6595-4D2C-A512-2D888F0E2304", 352, 1323890035, "393202", 1323890035, "393202", "{\n}", "Our Lord's Penecostal Church", "Church", "21217", "Druid Heights", "11", "CENTRAL", [ "{\"address\":\"2216 DIVISION ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 353, "9EAB7DF8-CF7F-4A14-B573-A7438C07B8A0", 353, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Hebron Memorial Church", "Church", "21216", "Coppin Heights/Ash-Co-East", "7", "WESTERN", [ "{\"address\":\"2231 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 354, "C9670826-886B-4C17-B89C-22271790D034", 354, 1323890035, "393202", 1323890035, "393202", "{\n}", "Koinonia Baptist Church", "Church", "21218", "Barclay", "12", "EASTERN", [ "{\"address\":\"2406 GREENMOUNT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 355, "23F1E999-BB50-41CA-A1D5-40C5ABB0E859", 355, 1323890035, "393202", 1323890035, "393202", "{\n}", "Siloam Freewill Baptist Church", "Church", "21223", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"501 FULTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 356, "60D22065-2CFD-482E-8F18-D434FFFF1F23", 356, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Saint John Baptist Church", "Church", "21223", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"1106 FRANKLIN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 357, "3C130E9C-168F-41C4-A414-41D714522B4E", 357, 1323890035, "393202", 1323890035, "393202", "{\n}", "Fountain Of Life Church Of Love", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"1700 GORSUCH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 358, "2D78F684-6D0F-4EB7-A969-3866D521D120", 358, 1323890035, "393202", 1323890035, "393202", "{\n}", "Fountain Baptist Church", "Church", "21202", "Oldtown", "12", "EASTERN", [ "{\"address\":\"1211 MONUMENT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 359, "BCEE8C90-9E33-4418-B92E-D391205BB665", 359, 1323890035, "393202", 1323890035, "393202", "{\n}", "Grace United Church Of Christ", "Church", "21230", "SBIC", "10", "SOUTHERN", [ "{\"address\":\"1404 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 360, "E4F7B79E-6F2E-4E6F-A771-F710B419C88A", 360, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of The Guardian Angel", "Church", "21211", "Remington", "7", "NORTHERN", [ "{\"address\":\"2629 HUNTINGDON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 361, "8B0CC46F-D214-48BE-AB67-9627DBB93F93", 361, 1323890035, "393202", 1323890035, "393202", "{\n}", "1st Mt. Carmel", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"2900 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 362, "870B6DEB-D2B3-4093-978F-9D98C89D5C32", 362, 1323890035, "393202", 1323890035, "393202", "{\n}", "Martin Lutheran Church", "Church", "21230", "Otterbein", "11", "SOUTHERN", [ "{\"address\":\"100 HENRIETTA ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 363, "16BC903C-02D6-4FE4-9F99-779E4ABE78F8", 363, 1323890035, "393202", 1323890035, "393202", "{\n}", "Family Bible Ministries Worldside Headqua", "Church", "21229", "Westgate", "8", "SOUTHWESTERN", [ "{\"address\":\"5300 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 364, "8F0DD56E-527B-4E26-8ACF-8A762CDCE68E", 364, 1323890035, "393202", 1323890035, "393202", "{\n}", "Little Mount Sinai Baptist Church", "Church", "21223", "Union Square", "9", "SOUTHERN", [ "{\"address\":\"101 MOUNT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 365, "33C3E5A4-C294-4651-A95E-BE6238144DAC", 365, 1323890035, "393202", 1323890035, "393202", "{\n}", "United Baptist Missionary Convention", "Church", "21201", "Madison Park", "11", "CENTRAL", [ "{\"address\":\"940 MADISON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 366, "3D915B30-7673-4FC7-B99C-12B6ED0798EC", 366, 1323890035, "393202", 1323890035, "393202", "{\n}", "Open Bible Baptist Church", "Church", "21206", "Frankford", "2", "NORTHEASTERN", [ "{\"address\":\"5718 BOWLEYS LN\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 367, "68547DF9-7656-4460-AFE0-372D3A01FF71", 367, 1323890035, "393202", 1323890035, "393202", "{\n}", "First English Lutheran Church", "Church", "21218", "Guilford", "14", "NORTHERN", [ "{\"address\":\"3807 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 368, "9AD88157-4BFF-4A02-B1B4-7BF6140DCA61", 368, 1323890035, "393202", 1323890035, "393202", "{\n}", "Salem Community Church", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"3610 ELDORADO AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 369, "1B5BD7CC-91D1-4083-9A75-D29A4542532A", 369, 1323890035, "393202", 1323890035, "393202", "{\n}", "Shiloh A.M.E. Church", "Church", "21216", "Windsor Hills", "6", "NORTHWESTERN", [ "{\"address\":\"2601 LYNDHURST AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 370, "EAF0FE86-947A-441C-9E02-3A4DB4441A4A", 370, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Faith Community Church", "Church", "21217", "Sandtown-Winchester", "9", "WESTERN", [ "{\"address\":\"1606 LAFAYETTE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 371, "D5A8852B-BD32-44E7-863B-3E6BBE5D9F9B", 371, 1323890035, "393202", 1323890035, "393202", "{\n}", "Deliverance Church Of God", "Church", "21218", "Waverly", "14", "NORTHERN", [ "{\"address\":\"3538 OLD YORK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 372, "62FC57BE-3FE7-4CF5-AD0C-4D0526EAC9C6", 372, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ Apostolic Church", "Church", "21218", "Better Waverly", "14", "NORTHERN", [ "{\"address\":\"2905 GREENMOUNT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 373, "702A4565-D96B-4EFB-AEE1-B7E3CFB090AA", 373, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Paul Church Of God In Jesus", "Church", "21213", "Berea", "13", "EASTERN", [ "{\"address\":\"2625 HOFFMAN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 374, "008088C4-C5B4-4583-89C8-1089977CE5B6", 374, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint James Church At Irvington", "Church", "21229", "Irvington", "8", "SOUTHWESTERN", [ "{\"address\":\"205 AUGUSTA AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 375, "729CD802-4359-473F-B7A1-3F6EDA28A626", 375, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bible Way Deliverance Church", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1631 FEDERAL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 376, "226E564E-CA60-4F59-AED6-C63620BB0D76", 376, 1323890035, "393202", 1323890035, "393202", "{\n}", "Zion Lutheran Church", "Church", "21202", "Downtown", "11", "CENTRAL", [ "{\"address\":\"400 LEXINGTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 377, "B1509FDA-FC3C-4595-8A1E-97A8810E8320", 377, 1323890035, "393202", 1323890035, "393202", "{\n}", "Higher Deminsion Ministries", "Church", "21215", "Park Circle", "7", "NORTHWESTERN", [ "{\"address\":\"2900 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 378, "24B91865-7CE2-4267-9353-587FAEB629E2", 378, 1323890035, "393202", 1323890035, "393202", "{\n}", "Cathedral Church Of The Incarnation", "Church", "21218", "Guilford", "14", "NORTHERN", [ "{\"address\":\"4 UNIVERSITY PKWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 379, "0CA2956E-9F30-4CEC-937A-B2E8D70819E5", 379, 1323890035, "393202", 1323890035, "393202", "{\n}", "Grace Lutheran Church At Hamilton", "Church", "21214", "Waltherson", "3", "NORTHEASTERN", [ "{\"address\":\"5205 HARFORD RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 380, "F81F9654-7459-4BBE-9C36-43A36451E49F", 380, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Paul Baptist Church", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"3101 THE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 381, "3682CA09-9FB9-4CF6-90AA-8A4AD72EBED7", 381, 1323890035, "393202", 1323890035, "393202", "{\n}", "United Baptist Church", "Church", "21205", "Gay Street", "12", "EASTERN", [ "{\"address\":\"938 BROADWAY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 382, "E6951EA5-898E-4958-BB74-9CB1F6C29888", 382, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Psalmist Baptist Church", "Church", "21229", "Uplands", "8", "SOUTHWESTERN", [ "{\"address\":\"4501 OLD FREDERICK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 383, "F99B579F-D570-4C2E-8D28-1AA139456BCF", 383, 1323890035, "393202", 1323890035, "393202", "{\n}", "Jerusalem Baptist Church", "Church", "21218", "East Baltimore Midway", "12", "EASTERN", [ "{\"address\":\"2401 LOCH RAVEN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 384, "3105D7E3-793B-4127-912A-2B36229D7AB7", 384, 1323890035, "393202", 1323890035, "393202", "{\n}", "Pillar Of Truth Church", "Church", "21205", "Milton-Montford", "13", "EASTERN", [ "{\"address\":\"2505 MADISON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 385, "C55B4ED9-E0B4-4736-BBEE-CFD7A4BD1E21", 385, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Emmanuel Baptist Church", "Church", "21217", "Reservoir Hill", "11", "CENTRAL", [ "{\"address\":\"2209 PARK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 386, "CB907AD7-36C3-4DB1-A2AF-02311759E6C5", 386, 1323890035, "393202", 1323890035, "393202", "{\n}", "Curtis Bay Church Of God", "Church", "21226", "Curtis Bay", "10", "SOUTHERN", [ "{\"address\":\"4710 CURTIS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 387, "4B2FB700-9906-466D-8690-990F797C908A", 387, 1323890035, "393202", 1323890035, "393202", "{\n}", "Blazing Star Church Of Christ", "Church", "21218", "East Baltimore Midway", "12", "EASTERN", [ "{\"address\":\"928 20TH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 388, "AF9F4879-6009-454F-BEAD-19FF66C928AE", 388, 1323890035, "393202", 1323890035, "393202", "{\n}", "Rising Sun Baptist Church", "Church", "21213", "South Clifton Park", "12", "EASTERN", [ "{\"address\":\"1901 REGESTER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 389, "5222179D-D71E-4BA3-9235-D5EE6E24A365", 389, 1323890035, "393202", 1323890035, "393202", "{\n}", "Corpus Christi Church Rectory", "Church", "21217", "Bolton Hill", "11", "CENTRAL", [ "{\"address\":\"110 LAFAYETTE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 390, "A013E1D4-9162-4E6D-B0F1-7C3B472E8F04", 390, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Baptist Church", "Church", "21225", "Cherry Hill", "10", "SOUTHERN", [ "{\"address\":\"823 CHERRY HILL RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 391, "783DCBDC-2E6D-484C-B13E-DE6D3A7A03BB", 391, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of Saint Paul The Apostle", "Church", "21230", "Washington Village", "11", "SOUTHERN", [ "{\"address\":\"859 WASHINGTON BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 392, "60888126-F439-4A25-8269-23791CA364E4", 392, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ Lutheran Church", "Church", "21230", "Otterbein", "11", "SOUTHERN", [ "{\"address\":\"701 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 393, "F0F45EF9-6BBC-4AA4-B7EE-4C9BC306CA02", 393, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Cornerstone Baptist Church", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1530 PRESTON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 394, "185F5C66-B0B6-4DEC-94B7-E3C3FAA09E8D", 394, 1323890035, "393202", 1323890035, "393202", "{\n}", "Zion Temple Fellowship Church", "Church", "21215", "Woodmere", "5", "NORTHWESTERN", [ "{\"address\":\"5423 REISTERSTOWN RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 395, "5B32DD0A-F569-49D3-B614-B2EAC7A04C08", 395, 1323890035, "393202", 1323890035, "393202", "{\n}", "Garden Of Prayer Baptist Church", "Church", "21218", "Better Waverly", "14", "NORTHERN", [ "{\"address\":\"1148 HOMESTEAD ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 396, "94013360-2E01-44C8-8566-B5C650622CB1", 396, 1323890035, "393202", 1323890035, "393202", "{\n}", "Community Church Of Christ", "Church", "21202", "Johnston Square", "12", "EASTERN", [ "{\"address\":\"1002 SOMERSET ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 397, "9CFF5102-E012-4A1E-9639-C174B3207E6A", 397, 1323890035, "393202", 1323890035, "393202", "{\n}", "Second Presbyterian Church", "Church", "21218", "Guilford", "4", "NORTHERN", [ "{\"address\":\"4200 SAINT PAUL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 398, "1A01E0DA-2E4B-4272-A885-D4CE5BE7A0A3", 398, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint John's Baptist Church", "Church", "21215", "Parklane", "6", "NORTHERN", [ "{\"address\":\"2929 DUPONT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 399, "5CED699F-2730-4FF8-9888-D8421A26D7E8", 399, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saints Stephen & James Church", "Church", "21230", "Sharp-Leadenhall", "10", "SOUTHERN", [ "{\"address\":\"938 HANOVER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 400, "DE3DF5A7-4D08-4F46-B636-9E8F9060E31A", 400, 1323890035, "393202", 1323890035, "393202", "{\n}", "Jones Tabernacle Baptist Church", "Church", "21223", "Penrose/Fayette Street Outreach", "9", "WESTERN", [ "{\"address\":\"2100 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 401, "02CF7E9D-1DE1-4C67-ABB4-E45BD8FC8C35", 401, 1323890035, "393202", 1323890035, "393202", "{\n}", "Charity Community Church Of God", "Church", "21229", "Carroll-South Hilton", "8", "SOUTHWESTERN", [ "{\"address\":\"3208 FREDERICK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 402, "434A3AE9-86ED-49E0-B7F3-3722215130A0", 402, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Wenceslas Catholic Church", "Church", "21205", "Middle East", "13", "EASTERN", [ "{\"address\":\"2111 ASHLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 403, "466E5262-B620-4E4C-9BD3-F5B97BC08611", 403, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Church Of Christ", "Church", "21202", "Oliver", "12", "EASTERN", [ "{\"address\":\"1249 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 404, "D4FFEB31-E973-4136-B174-E2DDE1986BCB", 404, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Bernardine Roman Catholic Church", "Church", "21229", "Edmondson Village", "8", "SOUTHWESTERN", [ "{\"address\":\"3812 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 405, "D162E750-5F3B-41F2-82EB-B39D35AD73C9", 405, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Bernardine's Roman Catholic Church", "Church", "21229", "Edmondson Village", "8", "SOUTHWESTERN", [ "{\"address\":\"3812 EDMONDSON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 406, "E8E9BD1A-E413-4D5C-AE3B-3783A0FE65A5", 406, 1323890035, "393202", 1323890035, "393202", "{\n}", "Highway Church Of Christ", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"3100 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 407, "703464EF-CD31-4BB3-9F5C-2192496428F4", 407, 1323890035, "393202", 1323890035, "393202", "{\n}", "Evans Temple Memorial Church", "Church", "21205", "Milton-Montford", "13", "EASTERN", [ "{\"address\":\"2435 MADISON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 408, "DC9163AF-BF5A-4201-B904-4340199CED81", 408, 1323890035, "393202", 1323890035, "393202", "{\n}", "Sinner's Friend Baptist Church", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"1744 GORSUCH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 409, "C28FCE13-0AF6-4AF4-A7B6-251177AF11C5", 409, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Baptist Church Of Fairfield", "Church", "21226", "Fairfield Area", "10", "SOUTHERN", [ "{\"address\":\"1610 BRADY AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 410, "B1788F0E-1D8C-48FD-801D-E90E2498E2AE", 410, 1323890035, "393202", 1323890035, "393202", "{\n}", "Beit Tikvah Reconstructionist Temple", "Church", "21210", "North Roland Park/Poplar Hill", "5", "NORTHERN", [ "{\"address\":\"5800 ROLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 411, "559F71CD-6ECC-4939-8AE8-168000E85C48", 411, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Christian Church", "Church", "21210", "North Roland Park/Poplar Hill", "5", "NORTHERN", [ "{\"address\":\"5802 ROLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 412, "8F25B669-592B-4108-B552-8F7CB1C29537", 412, 1323890035, "393202", 1323890035, "393202", "{\n}", "Beth Am", "Church", "21217", "Reservoir Hill", "11", "CENTRAL", [ "{\"address\":\"2501 EUTAW PL\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 413, "F10AA101-3DCE-4AE7-8CBA-CE11AD93BB15", 413, 1323890035, "393202", 1323890035, "393202", "{\n}", "Ark Church", "Church", "21202", "Oliver", "12", "EASTERN", [ "{\"address\":\"1263 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 414, "38B7AE99-40F5-4545-B91B-090E5EECBAB8", 414, 1323890035, "393202", 1323890035, "393202", "{\n}", "Our Saviour's Lutheran Church", "Church", "21218", "Ednor Gardens-Lakeside", "14", "NORTHEASTERN", [ "{\"address\":\"3301 THE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 415, "AB2C24AC-FC27-44B1-9CCA-26902FCF1AFA", 415, 1323890035, "393202", 1323890035, "393202", "{\n}", "Liberty Grace Church Of God", "Church", "21215", "Ashburton", "6", "NORTHWESTERN", [ "{\"address\":\"3400 COPLEY RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 416, "0AEC7948-6DAB-4F33-8A9D-C53EC108D753", 416, 1323890035, "393202", 1323890035, "393202", "{\n}", "Lovely Lane Methodist Church", "Church", "21218", "Charles Village", "12", "NORTHERN", [ "{\"address\":\"2200 SAINT PAUL ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 417, "5E873B50-F7C4-4EE4-9639-2E4565A48CBE", 417, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Mary's Episcopal Church", "Church", "21211", "Hampden", "14", "NORTHERN", [ "{\"address\":\"3900 ROLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 418, "66F6BF08-7A1D-41D3-90B2-BE4566EB1335", 418, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Timothy Christian Baptist Church", "Church", "21215", "West Arlington", "6", "NORTHWESTERN", [ "{\"address\":\"4003 GROVELAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 419, "ADC66122-B839-4CE5-BC4B-62A8D867C8D9", 419, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Trinity Church", "Church", "21216", "Rosemont", "9", "SOUTHWESTERN", [ "{\"address\":\"3204 PRESSTMAN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 420, "6AD000C3-494E-4596-A081-90A603341446", 420, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Faith Church", "Church", "21223", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"501 GILMOR ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 421, "7BA0D4C0-C039-48EC-8929-F6EA6E9B7E1E", 421, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Song Community Church", "Church", "21217", "Sandtown-Winchester", "7", "WESTERN", [ "{\"address\":\"1385 GILMOR ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 422, "C0C5EF63-C79E-4207-B0DE-B1FDC8D4AF5C", 422, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Remnant Church Of God", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"5023 GWYNN OAK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 423, "62F37005-84F5-46A4-B6C3-BBC144288BEF", 423, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Free Methodist Church", "Church", "21211", "Wyman Park", "7", "NORTHERN", [ "{\"address\":\"3441 KESWICK RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 424, "3D6330FD-C188-46F2-A370-383BFF792544", 424, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Benedicts Church", "Church", "21223", "Millhill", "9", "SOUTHWESTERN", [ "{\"address\":\"2612 WILKENS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 425, "C68A0844-362F-4F5F-A949-6325DD9C1285", 425, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Carmel Church Of God In Christ", "Church", "21215", "West Arlington", "6", "NORTHWESTERN", [ "{\"address\":\"4003 ELDERON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 426, "59C2CA12-52D8-4EE7-BAF5-73EACC7CDAED", 426, 1323890035, "393202", 1323890035, "393202", "{\n}", "Deeper Life Baptist Church", "Church", "21229", "Yale Heights", "8", "SOUTHWESTERN", [ "{\"address\":\"825 YALE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 427, "0D27FE54-395F-45AA-9837-F67BEEB58814", 427, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Life Baptist Church", "Church", "21215", "Central Park Heights", "6", "NORTHWESTERN", [ "{\"address\":\"3202 WOODLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 428, "16D6DDAC-BDB9-42BD-9CF8-A21539AD98FA", 428, 1323890035, "393202", 1323890035, "393202", "{\n}", "Church Of The Holy Trinity", "Church", "21216", "Bridgeview/Greenlawn", "9", "WESTERN", [ "{\"address\":\"2300 LAFAYETTE AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 429, "4813E966-51A8-4FE7-BA44-267785F23300", 429, 1323890035, "393202", 1323890035, "393202", "{\n}", "Grace Memorial Baptist Church", "Church", "21202", "Johnston Square", "12", "EASTERN", [ "{\"address\":\"1100 EDEN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 430, "DF6925CC-2CE3-40D5-90DB-15F8751A8287", 430, 1323890035, "393202", 1323890035, "393202", "{\n}", "Slavic Church Of Christ", "Church", "21224", "Canton", "1", "SOUTHEASTERN", [ "{\"address\":\"516 EAST AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 431, "40DAA867-3461-4B76-9C5C-361339E1101D", 431, 1323890035, "393202", 1323890035, "393202", "{\n}", "Hope Community Church", "Church", "21216", "Mosher", "9", "WESTERN", [ "{\"address\":\"719 POPLAR GROVE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 432, "398040F3-14CC-430A-A8D2-360B77801042", 432, 1323890035, "393202", 1323890035, "393202", "{\n}", "Christ United Methodist Church", "Church", "21229", "Yale Heights", "8", "SOUTHWESTERN", [ "{\"address\":\"541 BEECHFIELD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 433, "D76EC8E6-DF81-40C8-8CA4-4CC0E4F70488", 433, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Testament Missionary Baptist Church", "Church", "21223", "Shipley Hill", "9", "SOUTHWESTERN", [ "{\"address\":\"2501 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 434, "0309C336-005A-4C63-8B8E-8F23DE3569C3", 434, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Pentecostal Church", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"301 GILMOR ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 435, "1072CBAE-52FA-485A-A6CC-429147A3BC8C", 435, 1323890035, "393202", 1323890035, "393202", "{\n}", "First United Church Of Jesus Christ (Apos", "Church", "21229", "West Hills", "8", "SOUTHWESTERN", [ "{\"address\":\"5150 BALTIMORE NATIONAL PIKE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 436, "0E154258-8791-4686-A8AB-EC1F40E63D29", 436, 1323890035, "393202", 1323890035, "393202", "{\n}", "Greater Faith Baptist Church", "Church", "21211", "Remington", "7", "NORTHERN", [ "{\"address\":\"3000 HUNTINGDON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 437, "4F1798C8-9325-43FD-A719-CE734A9DB651", 437, 1323890035, "393202", 1323890035, "393202", "{\n}", "Pentecost Baptist Church", "Church", "21216", "Northwest Community Action", "7", "SOUTHWESTERN", [ "{\"address\":\"1615 POPLAR GROVE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 438, "394AADAF-F786-4927-AD9B-11BFC372ACBC", 438, 1323890035, "393202", 1323890035, "393202", "{\n}", "Cathedral Of Mary Our Queen", "Church", "21210", "Homeland", "6", "NORTHERN", [ "{\"address\":\"5300 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 439, "3F5C16A8-1B94-426C-BA7A-8789DA9B363F", 439, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Pisgah Cme Church", "Church", "21217", "Sandtown-Winchester", "9", "WESTERN", [ "{\"address\":\"1034 FULTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 440, "25F75CA7-F953-425D-87BE-E53811FC9E9F", 440, 1323890035, "393202", 1323890035, "393202", "{\n}", "Pennsylvania Avenue A.M.E. Zion Church", "Church", "21217", "Upton", "11", "CENTRAL", [ "{\"address\":\"1128 PENNSYLVANIA AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 441, "08151D4D-26CF-4CCD-BC40-FA7972ADD128", 441, 1323890035, "393202", 1323890035, "393202", "{\n}", "Baltimore Jewish Council", "Church", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"5750 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 442, "C8A74F02-D55C-4C76-AD68-2DBEF604CBF2", 442, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1840 BIDDLE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 443, "05A75F80-3A1F-4B9C-8B0F-ECA04BB125FD", 443, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Trinity Church", "Church", "21223", "Penrose/Fayette Street Outreach", "9", "WESTERN", [ "{\"address\":\"2100 VINE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 444, "C1378B46-567B-4622-B01A-24B289E6776E", 444, 1323890035, "393202", 1323890035, "393202", "{\n}", "Star Of Bethlehem Ame Church", "Church", "21230", "Mount Winans", "10", "SOUTHERN", [ "{\"address\":\"2525 RIDGELY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 445, "A3CC862F-108D-432D-A5E9-CBAC28D0F4DC", 445, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Cecilia Church Hall", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"3300 CLIFTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 446, "B9BE409D-9BFD-4AD8-AEC8-30BB79A2601C", 446, 1323890035, "393202", 1323890035, "393202", "{\n}", "Zion Baptist Church Of Christ", "Church", "21224", "Broening Manor", "1", "SOUTHEASTERN", [ "{\"address\":\"1717 BROENING HWY\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 447, "0CED6CFC-8F1E-46E6-909F-C1DDC16D8D48", 447, 1323890035, "393202", 1323890035, "393202", "{\n}", "Riverside Baptist Church", "Church", "21230", "Riverside", "10", "SOUTHERN", [ "{\"address\":\"1602 JOHNSON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 448, "21950C93-92F8-46C3-912C-889A70D41A0C", 448, 1323890035, "393202", 1323890035, "393202", "{\n}", "Shining Star Baptist Church", "Church", "21205", "Middle East", "13", "EASTERN", [ "{\"address\":\"2117 MCELDERRY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 449, "C75B7033-1D78-4125-85E7-0EC3B710BEC2", 449, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint John's Christian Church", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1208 LANVALE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 450, "8C3472F8-9CDD-462B-A9D2-796CBBFFEB46", 450, 1323890035, "393202", 1323890035, "393202", "{\n}", "Community Baptist Church", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"219 MOUNT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 451, "02C23075-FF0A-48A6-8855-47104085D3B4", 451, 1323890035, "393202", 1323890035, "393202", "{\n}", "St. Marl's Institutional Baptist Church", "Church", "21216", "Midtown-Edmondson", "9", "WESTERN", [ "{\"address\":\"655 BENTALOU ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 452, "1F86B6D4-0B36-4901-99AA-FA45D168FEE2", 452, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Luke's Episcopal Church", "Church", "21223", "Poppleton", "11", "WESTERN", [ "{\"address\":\"217 CAREY ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 453, "5FE0CE32-50FD-49AA-A718-4641E282CD98", 453, 1323890035, "393202", 1323890035, "393202", "{\n}", "Prince Of Peace Baptist Church", "Church", "21205", "McElderry Park", "13", "SOUTHEASTERN", [ "{\"address\":\"600 LINWOOD AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 454, "B90813A8-2A3B-4974-A6D2-93581A323FD3", 454, 1323890035, "393202", 1323890035, "393202", "{\n}", "Faith Baptist Church", "Church", "21205", "Gay Street", "12", "EASTERN", [ "{\"address\":\"833 BOND ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 455, "2F8B7CD7-87AF-4A22-A6DA-38728B909CED", 455, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint David's Church", "Church", "21210", "Roland Park", "6", "NORTHERN", [ "{\"address\":\"4700 ROLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 456, "8787BA79-5F72-4311-B748-AAC5345434A0", 456, 1323890035, "393202", 1323890035, "393202", "{\n}", "Maranatha Baptist Church", "Church", "21213", "Oliver", "12", "EASTERN", [ "{\"address\":\"1505 EDEN ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 457, "B570DB80-8924-4F96-8EE1-04E7D9B4271D", 457, 1323890035, "393202", 1323890035, "393202", "{\n}", "Ubc Church Of The Living God", "Church", "21217", "Mondawmin", "7", "WESTERN", [ "{\"address\":\"1939 WALBROOK AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 458, "9937AA42-D20B-461A-9CBE-56B344E2E06E", 458, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Church Of The Brethren", "Church", "21207", "Howard Park", "5", "NORTHWESTERN", [ "{\"address\":\"4500 LIBERTY HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 459, "CCBC7430-1C65-4C49-AA52-07197BEB41B3", 459, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Ignatius Church", "Church", "21202", "Mount Vernon", "11", "CENTRAL", [ "{\"address\":\"740 CALVERT ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 460, "AB2CDCB2-1FB4-4AA7-834F-6CC30A2597B2", 460, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Joseph's Baptist Church", "Church", "21213", "Broadway East", "12", "EASTERN", [ "{\"address\":\"1601 RUTLAND AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 461, "4404464A-F941-432F-BD4B-826383771727", 461, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint Luke's Holiness Church", "Church", "21218", "East Baltimore Midway", "12", "EASTERN", [ "{\"address\":\"2230 HARFORD RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 462, "42826225-4E30-471C-91B4-BFD92753419A", 462, 1323890035, "393202", 1323890035, "393202", "{\n}", "Faith Presbyterian Church", "Church", "21239", "Woodbourne Heights", "4", "NORTHEASTERN", [ "{\"address\":\"5400 LOCH RAVEN BLVD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 463, "E67194A6-1DF3-403C-842D-D4961823217A", 463, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Zion Hill Baptist Church", "Church", "21214", "Lauraville", "3", "NORTHEASTERN", [ "{\"address\":\"4800 HARFORD RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 464, "A191B06A-4D82-45B0-94AC-A5D9E4D55D58", 464, 1323890035, "393202", 1323890035, "393202", "{\n}", "Upper Room Baptist Church", "Church", "21223", "Poppleton", "9", "WESTERN", [ "{\"address\":\"1048 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 465, "79F4B442-F1D4-4F84-8D74-920B184DD9F9", 465, 1323890035, "393202", 1323890035, "393202", "{\n}", "Ebenezer Baptist Church", "Church", "21218", "Barclay", "12", "EASTERN", [ "{\"address\":\"306 23RD ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 466, "C32663C1-C553-41AC-A992-30FA14B4107F", 466, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Jerusalem Church Of God", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"1905 ROSEDALE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 467, "6E9FEDB3-842C-4271-96C2-0FB75427B2F0", 467, 1323890035, "393202", 1323890035, "393202", "{\n}", "Unity Church Of Christ", "Church", "21218", "Charles Village", "14", "NORTHERN", [ "{\"address\":\"2901 CHARLES ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 468, "27D8106A-9F43-4AD9-A574-02AD749CEA3D", 468, 1323890035, "393202", 1323890035, "393202", "{\n}", "First Charity Baptist Church", "Church", "21202", "Oldtown", "12", "EASTERN", [ "{\"address\":\"611 AISQUITH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 469, "04D3980B-5B05-47A3-9EA3-9D5C9BD03DB6", 469, 1323890035, "393202", 1323890035, "393202", "{\n}", "Second English Lutheran Church", "Church", "21229", "West Hills", "8", "SOUTHWESTERN", [ "{\"address\":\"5010 BRIARCLIFT RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 470, "10314073-40EC-465A-87EC-625C592EB0FE", 470, 1323890035, "393202", 1323890035, "393202", "{\n}", "Holy Mt. Zion", "Church", "21217", "Sandtown-Winchester", "9", "WESTERN", [ "{\"address\":\"1201 MONROE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 471, "E751D67C-4968-4EB8-BD0B-5C42EC0D5CD0", 471, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint John Ame Church", "Church", "21217", "Harlem Park", "11", "WESTERN", [ "{\"address\":\"810 CARROLLTON AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 472, "5C80C9AE-7F81-45D8-8AFF-0B0D1537E613", 472, 1323890035, "393202", 1323890035, "393202", "{\n}", "Shiloh Freewill Baptist Church", "Church", "21205", "Milton-Montford", "13", "EASTERN", [ "{\"address\":\"2308 MADISON ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 473, "407B84F7-123F-4834-8BE0-64B40670A319", 473, 1323890035, "393202", 1323890035, "393202", "{\n}", "Freedom Missionary Community Church", "Church", "21202", "Jonestown", "12", "SOUTHEASTERN", [ "{\"address\":\"1216 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 474, "9351BBBD-822A-4566-83EF-F2F4EF1F58EC", 474, 1323890035, "393202", 1323890035, "393202", "{\n}", "Amazing Grace Church Intl", "Church", "21206", "Waltherson", "2", "NORTHEASTERN", [ "{\"address\":\"4900 BELAIR RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 475, "4B979E21-F6E2-48A2-8D54-3085F028C992", 475, 1323890035, "393202", 1323890035, "393202", "{\n}", "John Wesley United Methodist Church", "Church", "21216", "Walbrook", "7", "SOUTHWESTERN", [ "{\"address\":\"3202 NORTH AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 476, "A3D5EC56-A75F-4948-A455-B943E0EB3BDC", 476, 1323890035, "393202", 1323890035, "393202", "{\n}", "Central Church Of Christ", "Church", "21229", "Rognel Heights", "8", "SOUTHWESTERN", [ "{\"address\":\"4301 WOODRIDGE RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 477, "FB9EE80F-556A-4DA3-A051-E32986195155", 477, 1323890035, "393202", 1323890035, "393202", "{\n}", "Power Of Faith Church", "Church", "21215", "Arlington", "5", "NORTHWESTERN", [ "{\"address\":\"5242 PARK HEIGHTS AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 478, "0A4857B1-D159-41F0-982C-DB70CFFC730C", 478, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint John's Episcopal Church", "Church", "21218", "Better Waverly", "14", "NORTHERN", [ "{\"address\":\"3009 GREENMOUNT AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 479, "FB14CCE6-9958-4E1F-A3DF-226C1A45AFAC", 479, 1323890035, "393202", 1323890035, "393202", "{\n}", "Saint John's Lutheran Church", "Church", "21225", "Brooklyn", "10", "SOUTHERN", [ "{\"address\":\"124 WASHBURN AVE\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 480, "6C8E8B60-2245-4FBC-8B98-62D911FB5511", 480, 1323890035, "393202", 1323890035, "393202", "{\n}", "Redeemed Church Of Christ", "Church", "21218", "Coldstream Homestead Montebello", "14", "NORTHEASTERN", [ "{\"address\":\"2616 HARFORD RD\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 481, "7EC46469-F713-432F-90DC-FA4312A607F5", 481, 1323890035, "393202", 1323890035, "393202", "{\n}", "New Shiloh Baptist Church", "Church", "21217", "Mondawmin", "7", "WESTERN", [ "{\"address\":\"2100 MONROE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 482, "356F5333-1129-468D-9C7B-C353A30BB1E4", 482, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Winans First Baptist Church", "Church", "21230", "Mount Winans", "10", "SOUTHERN", [ "{\"address\":\"2417 PUGET ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 483, "1CEE2515-D2A0-44C7-9D99-CE3E198907CE", 483, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bethel Church Of God Seventh", "Church", "21211", "Remington", "7", "NORTHERN", [ "{\"address\":\"301 28TH ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 484, "03C56907-E38B-427B-86A2-2A3721078607", 484, 1323890035, "393202", 1323890035, "393202", "{\n}", "Golden Lamp Christian Church", "Church", "21231", "Butcher's Hill", "1", "SOUTHEASTERN", [ "{\"address\":\"2239 FAYETTE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 485, "2ED5B14D-B283-411C-8C3A-9D327F483AD9", 485, 1323890035, "393202", 1323890035, "393202", "{\n}", "Masons", "Church", "21217", "Bolton Hill", "11", "CENTRAL", [ "{\"address\":\"1301 EUTAW PL\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 486, "1A8B67AA-D282-46E4-8422-762866339AC3", 486, 1323890035, "393202", 1323890035, "393202", "{\n}", "Mount Nebo Holy Church", "Church", "21223", "Franklin Square", "9", "WESTERN", [ "{\"address\":\"1700 BALTIMORE ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 487, "05DE9FC5-A115-4AB2-A047-BA939A1B5FE9", 487, 1323890035, "393202", 1323890035, "393202", "{\n}", "Urban Bible Fellowship Church", "Church", "21202", "Oldtown", "12", "EASTERN", [ "{\"address\":\"1225 EAGER ST\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 488, "DB19A8C4-D517-4991-A82E-337312FAA550", 488, 1323890035, "393202", 1323890035, "393202", "{\n}", "Agudath Israel", "Synagogue", "21209", "Cheswolde", "5", "NORTHWESTERN", [ "{\"address\":\"6107 Greenspring Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 489, "9E149F9B-6B71-466C-8E0E-FD8BD002CC6D", 489, 1323890035, "393202", 1323890035, "393202", "{\n}", "Agudath Israel of Baltimore", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"6200 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 490, "86EAD655-FF33-4807-A0E5-BC8179EECC69", 490, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bais Haknesses", "Synagogue", "21215", "Cross Country", "5", "NORTHWESTERN", [ "{\"address\":\"3120 Clarks Ln\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 491, "21BB33C6-3071-4841-B759-70FCEB0069D1", 491, 1323890035, "393202", 1323890035, "393202", "{\n}", "Baltimore Hebrew Congregation", "Synagogue", "21208", "Cross Country", "5", "NORTHWESTERN", [ "{\"address\":\"7401 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 492, "3BD63EF3-2ED9-435F-86B3-6958FDADC381", 492, 1323890035, "393202", 1323890035, "393202", "{\n}", "Beth Abraham Anshe Sfard", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"6208 Wallis Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 493, "9061F405-235B-4A1E-AB8D-E0BC674D98BC", 493, 1323890035, "393202", 1323890035, "393202", "{\n}", "Beth Am Synagogue", "Synagogue", "21217", "Reservoir Hill", "11", "CENTRAL", [ "{\"address\":\"2501 Eutaw Pl\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 494, "6D07252A-35FD-437D-A369-767EDA33BFA6", 494, 1323890035, "393202", 1323890035, "393202", "{\n}", "Beth Jacob/Anshe Sphard Ohr Knesseth", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"5713 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 495, "328F4806-780B-4DE9-97EB-221AFB4F01DF", 495, 1323890035, "393202", 1323890035, "393202", "{\n}", "B'nai Israel Congregation", "Synagogue", "21202", "Jonestown", "12", "SOUTHEASTERN", [ "{\"address\":\"27 Lloyd St\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 496, "B76D4AF1-0352-4F6E-AE94-653B4CBB9691", 496, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bnai Jacob Shaarei Zion Congregation", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"6602 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 497, "EC65A8A3-E8AA-4A9A-8177-AC8E93F661CF", 497, 1323890035, "393202", 1323890035, "393202", "{\n}", "Bolton St Synagogue", "Synagogue", "21210", "Evergreen", "6", "NORTHERN", [ "{\"address\":\"212 Coldspring Ln\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 498, "4C671A79-C58D-43D2-BAB4-5AFC744F6F16", 498, 1323890035, "393202", 1323890035, "393202", "{\n}", "Chabad-Lubavitch", "Synagogue", "21215", "Cross Country", "5", "NORTHWESTERN", [ "{\"address\":\"3402 Clarks Ln\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 499, "F28DD1B4-2564-49BF-90A1-93C011BBF1F8", 499, 1323890035, "393202", 1323890035, "393202", "{\n}", "Chevrei Tzedek Congregation", "Synagogue", "21215", "Cheswolde", "5", "NORTHWESTERN", [ "{\"address\":\"3101 Fallstaff Rd\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 500, "2FB37359-45AA-437B-BCEA-9450A77684AF", 500, 1323890035, "393202", 1323890035, "393202", "{\n}", "Chofetz Chaim Adas Bnei Israel", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"5915 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 501, "1CB7871D-2633-4207-8863-E408ECA16F4E", 501, 1323890035, "393202", 1323890035, "393202", "{\n}", "Congregation Beit Tikvah", "Synagogue", "21210", "North Roland Park/Poplar Hill", "5", "NORTHERN", [ "{\"address\":\"5802 Roland Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 502, "4ED81A4A-6F52-4D7E-AF88-938683DC5466", 502, 1323890036, "393202", 1323890036, "393202", "{\n}", "Darchei Zedek Congregation", "Synagogue", "21208", "Cross Country", "5", "NORTHWESTERN", [ "{\"address\":\"7307 Seven Mile Ln\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 503, "979DBB84-D75E-4FA1-BE88-8C33670A79F6", 503, 1323890036, "393202", 1323890036, "393202", "{\n}", "Kehilath B'nai Torah", "Synagogue", "21209", "Cheswolde", "5", "NORTHWESTERN", [ "{\"address\":\"6301 Green Meadow Parkway\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 504, "6C5FA7FE-B038-4F16-836B-A9BBF122AF0E", 504, 1323890036, "393202", 1323890036, "393202", "{\n}", "Machzikei Torah Congregation", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"6216 Biltmore Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 505, "4C067C0A-7D1E-45D5-8089-902171513E94", 505, 1323890036, "393202", 1323890036, "393202", "{\n}", "Nachal Chochma", "Synagogue", "21215", "Cross Country", "5", "NORTHWESTERN", [ "{\"address\":\"6410 Cross Country Blvd\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 506, "089F1637-13D3-4D5A-AE0B-E001DF636B1B", 506, 1323890036, "393202", 1323890036, "393202", "{\n}", "Ner Tamid Greenspring Valley Synagogue", "Synagogue", "21209", "Cheswolde", "5", "NORTHWESTERN", [ "{\"address\":\"6214 Pimlico Rd\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 507, "855E161D-8DF2-487F-B764-4777A941A74D", 507, 1323890036, "393202", 1323890036, "393202", "{\n}", "Ohel Yakov", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"3200 Glen Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 508, "F5560CF1-C62B-42F7-981D-604469114B7A", 508, 1323890036, "393202", 1323890036, "393202", "{\n}", "Ohr Hamizrach Sephardic Center", "Synagogue", "21215", "Cross Country", "5", "NORTHWESTERN", [ "{\"address\":\"6813 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 509, "A3E3A51B-2BED-4A04-8756-C9E51E90D635", 509, 1323890036, "393202", 1323890036, "393202", "{\n}", "Shaarei Tfiloh Congregation", "Synagogue", "21217", "Parkview/Woodbrook", "7", "WESTERN", [ "{\"address\":\"2001 Liberty Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 510, "4C8F5778-5E6F-4F3E-9F94-1952D446AE21", 510, 1323890036, "393202", 1323890036, "393202", "{\n}", "Shearith Israel Congregation", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"5835 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 511, "A8AE9AB9-E3DB-41B7-BB25-291932F8EADB", 511, 1323890036, "393202", 1323890036, "393202", "{\n}", "Temple Oheb Shalom", "Synagogue", "21208", "Fallstaff", "5", "NORTHWESTERN", [ "{\"address\":\"7310 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 512, "670503AF-9A84-434C-A288-DFE1FE93FF8A", 512, 1323890036, "393202", 1323890036, "393202", "{\n}", "Tiferes Yisroel", "Synagogue", "21215", "Glen", "5", "NORTHWESTERN", [ "{\"address\":\"6201 Park Heights Ave\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 513, "D7586192-5B28-41FC-843A-6C7F8572BDE4", 513, 1323890036, "393202", 1323890036, "393202", "{\n}", "St. Francis of Assisi ", null, "21213", "Mayfield", "3", "NORTHEASTERN", [ "{\"address\":\"3615 Harford Rd\",\"city\":\"Baltimore\",\"state\":\"MD\",\"zip\":\"\"}", null, null, null, true ] ]
+ ]
+ }

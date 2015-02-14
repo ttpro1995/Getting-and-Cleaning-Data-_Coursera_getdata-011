@@ -1,0 +1,17 @@
+{
+    "contents" : "#install jsonlite\ninstall.packages(\"jsonlite\")\n",
+    "created" : 1423898330482.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2127065421",
+    "id" : "2CE97113",
+    "lastKnownWriteTime" : 1423898398,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/Read_json/install_packages_jsonlite.R",
+    "project_path" : "install_packages_jsonlite.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,17 @@
+{
+    "contents" : "#json\nlibrary(jsonlite)\nrepos<-fromJSON(\"repos\")\ndatasharing<-subset(repos,name==\"datasharing\")\ndatasharing$created_at",
+    "created" : 1423909004275.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "923872355",
+    "id" : "BF1A9E65",
+    "lastKnownWriteTime" : 1423909476,
+    "path" : "D:/Coursera/Getting and Cleaning Data/quiz2/R_quiz2/q1.R",
+    "project_path" : "q1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

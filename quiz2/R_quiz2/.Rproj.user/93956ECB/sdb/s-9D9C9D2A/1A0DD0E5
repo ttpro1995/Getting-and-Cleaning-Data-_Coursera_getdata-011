@@ -1,0 +1,16 @@
+{
+    "contents" : "q4<-function(){\naddress<-url(\"http://biostat.jhsph.edu/~jleek/contact.html\")\nhtmlcode<-readLines(address)\nhtmlcode\n\nchar<-c(htmlcode[10],htmlcode[20],htmlcode[30],htmlcode[100])\nanswer<- nchar(char)\nanswer\n}\n\n\n#How many characters are in the 10th, 20th, 30th and 100th lines of HTML from this page: \n#45 31 7 25",
+    "created" : 1423909474625.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "532189155",
+    "id" : "1A0DD0E5",
+    "lastKnownWriteTime" : 1423910225,
+    "path" : "D:/Coursera/Getting and Cleaning Data/quiz2/R_quiz2/q4.R",
+    "project_path" : "q4.R",
+    "properties" : {
+    },
+    "source_on_save" : true,
+    "type" : "r_source"
+}

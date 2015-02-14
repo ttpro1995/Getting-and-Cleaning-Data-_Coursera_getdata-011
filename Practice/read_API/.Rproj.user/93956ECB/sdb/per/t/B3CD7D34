@@ -1,0 +1,17 @@
+{
+    "contents" : "#please don't use key in here for your apps.\n\nlibrary(httr)\nmyapp<- oauth_app(\"twitter\",\n                 key = \"VJQLiCSVwlMMieho1esYLsfpn\",\n                 secret=\"R24tlB1UT2d0pKTwv7VcCpHxX4d5YV5LO5bP9wwRgUCkPVu73k\") # consumer key and consumer secret\n                    \n\nsig <- sign_oauth1.0(myapp,\n                      token= \"1279530378-lOgk4GfvynvechMH53G1OdLcKl5S76V7eSnSzG5\",\n                      token_secret= \"mr1dqNqJEh1QWR2h8gUrvmCibIS8mzEzt75cupxkQPJws\")\n                      #token\n\nhomeTL <- GET(\"https://api.twitter.com/1.1/statuses/home_timeline.json\")\n# run in R console (saved workplace image before switch to Rstudio again). Rstudio will timed out\n            # read timeline\n#https://api.twitter.com/1.1/statuses/home_timeline.json\n\njson1=content(homeTL)",
+    "created" : 1423897252493.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2474103544",
+    "id" : "B3CD7D34",
+    "lastKnownWriteTime" : 1423898306,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/read_API/twitter.R",
+    "project_path" : "twitter.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

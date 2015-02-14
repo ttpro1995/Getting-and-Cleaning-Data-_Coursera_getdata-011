@@ -1,0 +1,17 @@
+{
+    "contents" : "ttpro<-fromJSON(\"ttpro1995repo.json\")\n\nhdviet<-subset(ttpro,name==\"HDvietWatchlist\")  # phim\n\n# counting R\nr<-subset(ttpro,language==\"R\")\n\n# java\nJava<-subset(ttpro,language==\"Java\")\n\n#C++\nCplusplus<-subset(ttpro,language==\"C++\")\n\n#C\nc<-subset(ttpro,language==\"C\")\n\n#other\nother<-subset(ttpro,(language!=\"C++\"&language!=\"Java\"&language!=\"C\"&language!=\"R\"))",
+    "created" : 1423906541214.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2585487114",
+    "id" : "833F5DE0",
+    "lastKnownWriteTime" : 1423907545,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/Read_json/ttpro git.R",
+    "project_path" : "ttpro git.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
