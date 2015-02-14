@@ -1,0 +1,17 @@
+{
+    "contents" : "#question 5\nq5<-function(){\n  #Read this data set into R and report the sum of the numbers in the fourth of the nine columns.\n  w<-c(-1,9,-5,4,4,-5,4,4,-5,4,4,-5,4,4) # minus is space, no minus is data\ndata<-read.fwf(\"q5data.for\",widths=w,skip=4)#skip 4 line from the beginning\n\n#4th number of every column \nv<-c(data[,4]) #row 4, all column\nanswer<- sum(v)\nanswer\n}#32426.7",
+    "created" : 1423910326839.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2973077398",
+    "id" : "9060E1BF",
+    "lastKnownWriteTime" : 1423912567,
+    "path" : "D:/Coursera/Getting and Cleaning Data/quiz2/R_quiz2/q5.R",
+    "project_path" : "q5.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : true,
+    "type" : "r_source"
+}

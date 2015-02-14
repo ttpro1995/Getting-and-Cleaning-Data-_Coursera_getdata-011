@@ -1,0 +1,16 @@
+{
+    "contents" : "library(jsonlite)\njsonData<- fromJSON(\"religious.json\")\nnames(jsonData)\nnames(jsonData$meta$view)\nnames(jsonData$meta$view$id)\njsonData$meta$view$id\n\n\ndata2 <- fromJSON(\"repo.json\")\nnames(data2)\nnames(data2$owner)\ndata2$owner$login\n",
+    "created" : 1423910561329.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3781048500",
+    "id" : "E7AF79EB",
+    "lastKnownWriteTime" : 1423899746,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Practice/Read_json/read_json.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
