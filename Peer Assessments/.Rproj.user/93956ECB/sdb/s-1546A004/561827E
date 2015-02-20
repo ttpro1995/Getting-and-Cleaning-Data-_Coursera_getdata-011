@@ -1,0 +1,17 @@
+{
+    "contents" : "#YOU DONT NEED TO READ THIS\n#PERSONAL NOTE\n  \n#You should create one R script called run_analysis.R that does the following. \n\n#Merges the training and the test sets to create one data set.\n#Extracts only the measurements on the mean and standard deviation for each measurement. \n#Uses descriptive activity names to name the activities in the data set\n#Appropriately labels the data set with descriptive variable names. \n\n#From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.\n\n#Good luck!",
+    "created" : 1424443194511.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1694825113",
+    "id" : "561827E",
+    "lastKnownWriteTime" : 1424443341,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Peer Assessments/TODO.R",
+    "project_path" : "TODO.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

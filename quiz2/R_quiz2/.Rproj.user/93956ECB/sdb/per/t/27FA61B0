@@ -1,0 +1,17 @@
+{
+    "contents" : "q2<-function()\n{\n\n  data<-read.csv(\"q2data.csv\")\n  data\n  \n  \n}",
+    "created" : 1423913961954.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2482931717",
+    "id" : "27FA61B0",
+    "lastKnownWriteTime" : 1423914871,
+    "path" : "D:/Coursera/Getting and Cleaning Data/quiz2/R_quiz2/q2.R",
+    "project_path" : "q2.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : true,
+    "type" : "r_source"
+}

@@ -1,0 +1,17 @@
+{
+    "contents" : "# Merges the training and the test sets to create one data set.\n\nx_train<-read.table(\"train/X_train.txt\")\ny_train<-read.table(\"train/y_train.txt\")\nsubject_train<-read.table(\"train/subject_train.txt\")\n\nx_test<-read.table(\"test/X_test.txt\")\ny_test<-read.table(\"test/y_test.txt\")\nsubject_test<-read.table(\"test/subject_test.txt\")\n\n",
+    "created" : 1424443258559.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1817052752",
+    "id" : "2B41227C",
+    "lastKnownWriteTime" : 1424444627,
+    "path" : "D:/Coursera/Getting and Cleaning Data/Peer Assessments/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

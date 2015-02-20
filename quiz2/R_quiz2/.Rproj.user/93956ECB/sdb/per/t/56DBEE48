@@ -1,0 +1,17 @@
+{
+    "contents" : "#sql\n\ninstall.packages(\"RMySQL\")\ninstall.packages(\"sqldf\")\n\n",
+    "created" : 1423912811629.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1066430998",
+    "id" : "56DBEE48",
+    "lastKnownWriteTime" : 1423914460,
+    "path" : "D:/Coursera/Getting and Cleaning Data/quiz2/R_quiz2/install RMySQL.R",
+    "project_path" : "install RMySQL.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
