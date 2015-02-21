@@ -35,7 +35,8 @@ names(merge_data)<-features          #name it column
 MeanStd <- grep("mean\\(\\)|std\\(\\)", features)
 #vector contain index of column have mean std in it name 
 
-extract_data<-merge_data[,MeanStd]   #only mean and std
+#extract_data<-merge_data[,MeanStd]   #only mean and std
+merge_data<-merge_data[,MeanStd] 
 
 #Match y with its label
 activities_label<-read.table("UCI HAR Dataset/activity_labels.txt")
@@ -53,7 +54,15 @@ for (i in 1:length(tmp))
 subject_train<-read.table("UCI HAR Dataset/train/subject_train.txt")
 subject_test<-read.table("UCI HAR Dataset/test/subject_test.txt")
 merge_subject<-rbind(subject_train,subject_test)
+merge_subject<-as.vector(merge_subject[[1]])
+Subject<-merge_subject   #change name 
+Activities <- merge_label #change name 
+tmp<-cbind(Subject,Activities)  # first two row
+tmp<-cbind(tmp, merge_data)
+merge_data<-tmp    
 
+
+extract_data<-merge_data
 
 write.table(extract_data,file="extract_data.txt",row.names=FALSE) #output extract_data
 #Extracts_data cointain only the measurements on the mean and standard deviation for each measurement.
