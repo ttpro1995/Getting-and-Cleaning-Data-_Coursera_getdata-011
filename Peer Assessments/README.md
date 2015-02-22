@@ -13,4 +13,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 4. It will output: <br>
 	- "extract_data.txt" which contain clean data with mean, standard deviation for each measurement.<br>
-	- 	TODO:  independent tidy data set with the average of each variable for each activity and each subject.
+	- 	"average.txt":  independent tidy data set with the average of each variable for each activity and each subject.

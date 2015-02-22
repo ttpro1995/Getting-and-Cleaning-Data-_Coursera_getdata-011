@@ -30,6 +30,12 @@ This will be a data.frame contain mean and standard deviation for each measureme
 
 +Print out extract_data into file extract_data.txt
 
++Create new result as a data.frame with 68 column
+
++ creates a second, independent tidy data set with the average of each variable for each activity and each subject (180 lines, 68 column) store into result
+
++Print out result into file average.txt 
+<br>That is the file for step 5
 
 
 
