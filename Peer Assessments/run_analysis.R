@@ -68,4 +68,30 @@ write.table(extract_data,file="extract_data.txt",row.names=FALSE) #output extrac
 #Extracts_data cointain only the measurements on the mean and standard deviation for each measurement.
 
 
+##second data
+
+subjectLen <- length(table(merge_subject)) # 30
+activityLen <- length(activities_label) # 6
+columnLen <- dim(extract_data)[2]       #68
+
+result <- matrix(NA, nrow=subjectLen*activityLen, ncol=columnLen) 
+result <- as.data.frame(result)
+colnames(result) <- colnames(extract_data)
+row <- 1
+
+
+merge_subject<-rbind(subject_train,subject_test)  
+
+for(i in 1:subjectLen) {
+  for(j in 1:activityLen) {
+    result[row, 1] <- sort(unique(merge_subject)[, 1])[i]
+    result[row, 2] <- activities_label[j]
+    bool1 <- i == extract_data$Subject
+    bool2 <- activities_label[j] == extract_data$Activities 
+    result[row, 3:columnLen] <- colMeans(extract_data[bool1&bool2, 3:columnLen])
+    row <- row + 1
+  }
+}
+
+
 
